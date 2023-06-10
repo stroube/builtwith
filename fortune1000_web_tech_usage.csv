@@ -1,0 +1,1001 @@
+"","Lookup","company","rank","sector","Ticker","tech_count_2013","tech_count_2014","tech_count_2015","tech_count_2016","tech_count_2017","tech_count_2018","tech_count_2019","tech_count_2020","tech_count_2021","tech_count_2022","misleading_counts"
+"1","1800flowers.com","1-800-Flowers.com",997,"Retailing","FLWS",79,153,156,169,188,237,284,358,353,352,FALSE
+"2","3m.com","3M",102,"Chemicals","MMM",13,13,22,128,198,291,319,363,379,457,FALSE
+"3","53.com","Fifth Third Bancorp",415,"Financials","FITB",0,0,0,57,105,146,179,221,221,278,FALSE
+"4","aa.com","American Airlines Group",114,"Transportation","AAL",1,1,1,136,137,174,242,264,257,355,FALSE
+"5","aam.com","American Axle & Manufacturing",587,"Motor Vehicles & Parts","AXL",22,25,32,33,78,73,91,112,116,144,FALSE
+"6","abbott.com","Abbott Laboratories",86,"Health Care","ABT",44,61,80,98,128,185,226,236,243,327,FALSE
+"7","abbvie.com","AbbVie",63,"Health Care","ABBV",20,28,33,67,94,153,176,196,197,290,FALSE
+"8","abc.xyz","Alphabet",8,"Technology","GOOGL",0,0,12,13,18,24,19,21,21,22,FALSE
+"9","abercrombie.com","Abercrombie & Fitch",725,"Retailing","ANF",60,111,105,127,160,141,99,93,124,88,FALSE
+"10","abm.com","ABM Industries",510,"Business Services","ABM",38,56,80,120,116,158,183,221,254,300,FALSE
+"11","about.underarmour.com","Under Armour",546,"Apparel","UAA",0,0,0,0,0,0,0,0,0,0,FALSE
+"12","aboutschwab.com","Charles Schwab",188,"Financials","SCHW",33,40,40,45,47,62,91,120,98,96,FALSE
+"13","academy.com","Academy Sports and Outdoors",481,"Retailing","ASO",32,45,58,72,95,120,161,221,237,228,FALSE
+"14","acadiahealthcare.com","Acadia Healthcare",944,"Health Care","ACHC",42,46,54,59,50,50,62,98,90,102,FALSE
+"15","activisionblizzard.com","Activision Blizzard",396,"Media","ATVI",27,31,40,34,47,53,87,131,174,158,FALSE
+"16","acuitybrands.com","Acuity Brands",759,"Industrials","AYI",50,55,88,110,141,150,197,227,270,270,FALSE
+"17","acushnetholdingscorp.com","Acushnet Holdings",990,"Hotels, Restaurants & Leisure","GOLF",0,0,0,17,20,23,29,37,36,43,FALSE
+"18","adapthealth.com","AdaptHealth",926,"Health Care","AHCO",10,10,10,10,10,24,70,127,165,194,FALSE
+"19","adm.com","Archer Daniels Midland",38,"Food, Beverages & Tobacco","ADM",15,22,27,29,56,68,86,106,142,224,FALSE
+"20","adobe.com","Adobe",235,"Technology","ADBE",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","adp.com","Automatic Data Processing",242,"Business Services","ADP",76,93,161,197,222,297,319,370,359,409,FALSE
+"22","adt.com","ADT",574,"Business Services","ADT",70,100,101,165,189,224,221,261,347,378,FALSE
+"23","advanceautoparts.com","Advance Auto Parts",337,"Retailing","AAP",74,106,99,108,105,140,145,166,131,168,FALSE
+"24","advantagesolutions.net","Advantage Solutions",740,"Business Services","ADV",9,11,39,76,91,101,131,154,193,201,FALSE
+"25","aecom.com","AECOM",260,"Engineering & Construction","ACM",34,47,78,86,134,195,235,288,294,305,FALSE
+"26","aeo-inc.com","American Eagle Outfitters",605,"Retailing","AEO",0,0,0,0,0,18,36,48,65,50,FALSE
+"27","aep.com","American Electric Power",219,"Energy","AEP",20,21,23,23,25,58,67,89,96,143,FALSE
+"28","aerojetrocketdyne.com","Aerojet Rocketdyne Holdings",981,"Aerospace & Defense","AJRD",0,0,33,34,35,55,55,61,66,69,FALSE
+"29","aes.com","AES",333,"Energy","AES",26,40,68,96,110,102,83,151,167,166,FALSE
+"30","afginc.com","American Financial Group",454,"Financials","AFG",14,19,17,19,19,42,38,52,55,51,FALSE
+"31","aflac.com","Aflac",161,"Financials","AFL",16,20,20,17,17,28,28,141,265,330,FALSE
+"32","agcocorp.com","AGCO",334,"Industrials","AGCO",53,91,111,116,144,198,205,247,270,331,FALSE
+"33","agilent.com","Agilent Technologies",504,"Technology","A",31,76,85,128,170,231,255,331,322,413,FALSE
+"34","aig.com","American International Group",67,"Financials","AIG",16,38,60,93,134,184,212,231,201,266,FALSE
+"35","airbnb.com","Airbnb",528,"Technology","ABNB",94,130,194,218,221,239,255,322,322,244,FALSE
+"36","airproducts.com","Air Products & Chemicals",350,"Chemicals","APD",67,77,78,79,86,88,129,174,173,215,FALSE
+"37","ajg.com","Arthur J. Gallagher",422,"Financials","AJG",21,50,46,56,114,189,232,260,287,316,FALSE
+"38","akamai.com","Akamai Technologies",758,"Technology","AKAM",39,64,95,105,156,188,239,237,215,294,FALSE
+"39","alaskaair.com","Alaska Air Group",514,"Transportation","ALK",46,94,107,116,150,243,231,285,288,354,FALSE
+"40","albemarle.com","Albemarle",780,"Chemicals","ALB",32,47,61,53,48,80,84,123,139,151,FALSE
+"41","albertsonscompanies.com","Albertsons",52,"Food & Drug Stores","ACI",0,0,12,13,13,46,32,62,90,109,FALSE
+"42","alcoa.com","Alcoa",312,"Materials","AA",55,58,76,98,96,108,89,117,99,143,FALSE
+"43","alight.com","Alight",853,"Business Services","ALIT",47,54,53,58,78,138,170,222,240,305,FALSE
+"44","aligntech.com","Align Technology",699,"Health Care","ALGN",15,34,35,49,51,98,118,164,189,233,FALSE
+"45","alleghany.com","Alleghany",318,"Financials","Y",10,14,13,43,44,43,32,37,47,51,FALSE
+"46","alliantenergy.com","Alliant Energy",731,"Energy","LNT",13,24,24,23,44,71,87,112,108,119,FALSE
+"47","allisontransmission.com","Allison Transmission Holdings",940,"Motor Vehicles & Parts","ALSN",38,53,53,58,62,85,107,121,151,156,FALSE
+"48","allstate.com","Allstate",66,"Financials","ALL",121,157,201,205,239,259,268,246,239,286,FALSE
+"49","ally.com","Ally Financial",345,"Financials","ALLY",100,117,148,146,135,207,224,267,249,281,FALSE
+"50","alphametresources.com","Alpha Metallurgical Resources",965,"Energy","AMR",0,0,0,0,0,0,0,1,74,79,FALSE
+"51","alticeusa.com","Altice USA",355,"Telecommunications","ATUS",0,0,0,43,66,59,95,114,102,122,FALSE
+"52","altria.com","Altria Group",165,"Food, Beverages & Tobacco","MO",44,53,65,65,61,114,75,118,129,140,FALSE
+"53","amark.com","A-Mark Precious Metals",446,"Wholesalers","AMRK",23,25,35,35,40,67,88,108,108,103,FALSE
+"54","amazon.com","Amazon",2,"Retailing","AMZN",0,0,0,0,0,0,0,0,0,0,TRUE
+"55","amcnetworks.com","AMC Networks",817,"Media","AMCX",46,54,63,59,63,129,141,179,184,196,FALSE
+"56","amctheatres.com","AMC Entertainment Holdings",920,"Media","AMC",61,77,75,85,83,110,140,184,174,188,FALSE
+"57","amd.com","Advanced Micro Devices",226,"Technology","AMD",49,81,114,127,158,223,239,254,236,292,FALSE
+"58","amedisys.com","Amedisys",978,"Health Care","AMED",68,70,71,67,98,120,126,165,188,200,FALSE
+"59","amerco.com","Amerco",648,"Transportation","UHAL",11,12,12,15,32,32,33,39,37,37,FALSE
+"60","ameren.com","Ameren",500,"Energy","AEE",23,38,36,51,56,64,87,110,145,169,FALSE
+"61","american-equity.com","American Equity Investment Life Holding",727,"Financials","AEL",16,29,35,36,39,88,93,116,136,141,FALSE
+"62","americanexpress.com","American Express",85,"Financials","AXP",48,122,127,213,318,384,347,486,459,527,FALSE
+"63","americannational.com","American National Group",660,"Financials","",0,1,11,28,40,63,81,106,115,97,FALSE
+"64","americantower.com","American Tower",375,"Financials","AMT",26,39,42,44,77,77,103,189,230,245,FALSE
+"65","americold.com","Americold Realty Trust",893,"Financials","COLD",27,29,34,51,54,62,116,152,171,205,FALSE
+"66","ameriprise.com","Ameriprise Financial",277,"Financials","AMP",52,76,94,109,140,148,165,204,188,194,FALSE
+"67","amerisourcebergen.com","AmerisourceBergen",10,"Health Care","ABC",4,4,5,6,9,66,127,147,202,250,FALSE
+"68","ametek.com","Ametek",563,"Technology","AME",16,21,85,73,74,75,107,134,134,163,FALSE
+"69","amfam.com","American Family Insurance Group",251,"Financials","",96,129,148,164,182,201,216,274,255,297,FALSE
+"70","amg.com","Affiliated Managers Group",936,"Financials","AMG",17,16,19,16,49,50,65,74,76,136,FALSE
+"71","amgen.com","Amgen",140,"Health Care","AMGN",38,45,88,147,161,186,195,287,271,323,FALSE
+"72","amica.com","Amica Mutual Insurance",880,"Financials","",32,47,60,68,97,106,172,231,253,274,FALSE
+"73","amkor.com","Amkor Technology",516,"Technology","AMKR",20,22,29,26,30,89,101,121,139,152,FALSE
+"74","amnhealthcare.com","AMN Healthcare Services",694,"Health Care","AMN",35,54,57,81,105,112,159,224,247,241,FALSE
+"75","amphenol.com","Amphenol",341,"Technology","APH",14,20,24,24,24,63,72,96,109,64,FALSE
+"76","amwater.com","American Water Works",702,"Energy","AWK",29,43,49,68,88,98,123,188,170,202,FALSE
+"77","analog.com","Analog Devices",463,"Technology","ADI",73,79,109,90,102,180,195,233,281,347,FALSE
+"78","andersonsinc.com","Andersons",295,"Food, Beverages & Tobacco","ANDE",9,13,44,47,59,66,80,87,93,107,FALSE
+"79","annaly.com","Annaly Capital Management",867,"Financials","NLY",11,33,33,34,43,51,47,61,61,63,FALSE
+"80","anteroresources.com","Antero Resources",639,"Energy","AR",37,41,49,59,49,52,69,54,52,62,FALSE
+"81","aosmith.com","A.O. Smith",746,"Industrials","AOS",19,40,54,71,69,103,90,113,114,106,FALSE
+"82","apacorp.com","APA",431,"Energy","APA",0,0,0,0,0,0,1,5,82,83,FALSE
+"83","apigroupcorp.com","APi Group",701,"Engineering & Construction","APG",0,0,0,0,0,0,5,24,26,54,FALSE
+"84","apollo.com","Apollo Global Management",386,"Financials","APO",0,1,1,22,24,61,52,80,114,190,FALSE
+"85","apple.com","Apple",3,"Technology","AAPL",46,73,85,153,211,249,278,436,490,496,FALSE
+"86","applied.com","Applied Industrial Technologies",792,"Wholesalers","AIT",28,36,32,67,78,92,104,148,151,166,FALSE
+"87","appliedmaterials.com","Applied Materials",156,"Technology","AMAT",43,71,75,62,71,81,98,118,114,132,FALSE
+"88","applovin.com","AppLovin",876,"Technology","APP",17,26,46,52,47,89,107,126,163,178,FALSE
+"89","aptar.com","AptarGroup",796,"Materials","ATR",30,47,78,97,99,110,124,177,137,211,FALSE
+"90","aramark.com","Aramark",314,"Business Services","ARMK",19,29,56,60,99,116,151,205,217,234,FALSE
+"91","arcb.com","ArcBest",696,"Transportation","ARCB",1,36,37,43,84,98,96,127,170,157,FALSE
+"92","archrsc.com","Arch Resources",980,"Energy","ARCH",0,0,0,0,0,0,0,76,87,92,FALSE
+"93","arconic.com","Arconic",452,"Materials","ARNC",0,0,3,51,60,78,80,82,66,102,FALSE
+"94","are.com","Alexandria Real Estate Equities",945,"Financials","ARE",21,25,29,34,38,48,67,131,150,114,FALSE
+"95","aresmgmt.com","Ares Management",627,"Financials","ARES",11,24,22,26,34,47,47,98,99,116,FALSE
+"96","arista.com","Arista Networks",844,"Technology","ANET",0,70,98,113,130,158,177,220,250,271,FALSE
+"97","arkocorp.com","ARKO",498,"Retailing","ARKO",0,0,0,0,0,0,0,1,30,33,FALSE
+"98","arrow.com","Arrow Electronics",104,"Wholesalers","ARW",73,105,153,184,214,271,324,318,265,361,FALSE
+"99","asburyauto.com","Asbury Automotive Group",360,"Retailing","ABG",28,30,36,41,42,41,41,57,65,55,FALSE
+"100","asgn.com","ASGN",663,"Business Services","ASGN",0,0,0,7,7,54,73,84,115,81,FALSE
+"101","ashland.com","Ashland",999,"Chemicals","ASH",29,56,90,87,67,95,89,98,137,159,FALSE
+"102","assurant.com","Assurant",325,"Financials","AIZ",32,55,66,71,85,142,173,221,242,269,FALSE
+"103","atimaterials.com","ATI",875,"Materials","ATI",0,0,0,0,0,5,11,11,11,89,FALSE
+"104","atkore.com","Atkore",847,"Industrials","ATKR",51,58,84,74,89,89,93,124,146,164,FALSE
+"105","atlasairworldwide.com","Atlas Air Worldwide Holdings",687,"Transportation","AAWW",0,0,0,0,0,4,30,45,58,63,FALSE
+"106","atmosenergy.com","Atmos Energy",768,"Energy","ATO",18,20,26,40,54,55,71,90,90,104,FALSE
+"107","att.com","AT&T",13,"Telecommunications","T",0,0,0,0,0,0,0,0,0,0,TRUE
+"108","auto-owners.com","Auto-Owners Insurance",339,"Financials","",38,34,35,39,77,55,71,88,80,68,FALSE
+"109","autodesk.com","Autodesk",661,"Technology","ADSK",114,160,232,276,325,339,333,397,423,530,FALSE
+"110","autoliv.com","Autoliv",421,"Motor Vehicles & Parts","ALV",15,23,42,34,38,74,115,159,164,201,FALSE
+"111","autonation.com","AutoNation",141,"Retailing","AN",82,112,134,108,105,145,175,226,226,285,FALSE
+"112","autozone.com","AutoZone",249,"Retailing","AZO",24,32,41,82,103,178,219,260,226,235,FALSE
+"113","avalonbay.com","AvalonBay Communities",960,"Financials","AVB",5,29,41,68,72,123,115,138,131,147,FALSE
+"114","avantorsciences.com","Avantor",457,"Technology","AVTR",0,0,0,0,6,25,48,73,119,157,FALSE
+"115","avaya.com","Avaya Holdings",839,"Technology","AVYA",62,90,91,128,154,218,281,323,275,321,FALSE
+"116","averydennison.com","Avery Dennison",412,"Materials","AVY",62,90,85,102,148,192,216,275,296,389,FALSE
+"117","avient.com","Avient",622,"Chemicals","AVNT",8,10,5,5,5,8,9,74,123,128,FALSE
+"118","avisbudgetgroup.com","Avis Budget Group",378,"Retailing","CAR",22,23,30,29,33,97,101,109,118,130,FALSE
+"119","avnet.com","Avnet",180,"Wholesalers","AVT",36,60,72,72,76,118,170,227,190,265,FALSE
+"120","bakerhughes.com","Baker Hughes",170,"Energy","BKR",57,78,69,75,83,92,125,133,147,205,FALSE
+"121","ball.com","Ball",272,"Materials","BLL",26,29,30,61,62,86,88,131,168,190,FALSE
+"122","bankofamerica.com","Bank of America",36,"Financials","BAC",65,100,124,142,168,200,196,216,205,270,FALSE
+"123","baxter.com","Baxter International",292,"Health Care","BAX",20,39,60,54,66,135,146,210,224,261,FALSE
+"124","bbinsurance.com","Brown & Brown",822,"Financials","BRO",38,53,58,58,59,91,106,102,109,110,FALSE
+"125","bbwinc.com","Bath & Body Works",435,"Retailing","BBWI",8,9,12,12,12,14,13,15,73,64,FALSE
+"126","bc.com","Boise Cascade",432,"Wholesalers","BCC",0,0,21,42,52,72,124,137,165,176,FALSE
+"127","bd.com","Becton Dickinson",173,"Health Care","BDX",21,21,22,124,166,170,291,306,312,407,FALSE
+"128","beazer.com","Beazer Homes USA",992,"Engineering & Construction","BZH",75,104,149,131,155,171,167,168,163,158,FALSE
+"129","becn.com","Beacon Roofing Supply",478,"Wholesalers","BECN",5,4,4,7,13,17,45,83,133,126,FALSE
+"130","bedbathandbeyond.com","Bed Bath & Beyond",381,"Retailing","BBBY",102,164,170,199,221,277,274,319,258,231,FALSE
+"131","belden.com","Belden",939,"Industrials","BDC",43,72,75,82,117,121,133,219,225,247,FALSE
+"132","bench.com","Benchmark Electronics",968,"Technology","BHE",14,16,19,75,79,106,129,161,150,133,FALSE
+"133","berkley.com","W.R. Berkley",371,"Financials","WRB",4,6,6,34,29,67,77,103,104,149,FALSE
+"134","berkshirehathaway.com","Berkshire Hathaway",7,"Financials","BRKA",8,8,8,10,6,8,21,21,22,28,FALSE
+"135","berryglobal.com","Berry Global Group",271,"Materials","BERY",15,15,29,29,56,101,118,134,126,152,FALSE
+"136","biglots.com","Big Lots",515,"Retailing","BIG",35,56,96,120,163,169,195,200,211,243,FALSE
+"137","bio-rad.com","Bio-Rad Laboratories",850,"Technology","BIO",27,38,54,45,47,79,133,178,271,306,FALSE
+"138","biogen.com","Biogen",338,"Health Care","BIIB",14,14,75,78,81,143,154,182,204,214,FALSE
+"139","bjs.com","BJ&#8217;s Wholesale Club",221,"Retailing","BJ",51,69,95,126,150,221,278,289,294,288,FALSE
+"140","blackrock.com","BlackRock",184,"Financials","BLK",21,34,51,83,141,169,266,329,293,327,FALSE
+"141","blackstone.com","Blackstone",159,"Financials","BX",31,37,43,64,73,114,131,161,159,176,FALSE
+"142","bldr.com","Builders FirstSource",176,"Materials","BLDR",15,24,18,18,19,63,82,95,128,183,FALSE
+"143","block.xyz","Block",208,"Business Services","SQ",0,0,0,0,4,4,10,8,47,115,FALSE
+"144","bloominbrands.com","Bloomin' Brands",681,"Hotels, Restaurants & Leisure","BLMN",12,20,22,23,41,78,82,105,116,133,FALSE
+"145","bluelinxco.com","BlueLinx Holdings",665,"Wholesalers","BXC",28,28,31,33,87,100,136,127,133,177,FALSE
+"146","bms.com","Bristol-Myers Squibb",82,"Health Care","BMY",23,37,42,44,93,156,140,199,184,253,FALSE
+"147","bnymellon.com","Bank of New York Mellon",229,"Financials","BK",28,68,95,86,108,171,165,201,182,243,FALSE
+"148","boeing.com","Boeing",60,"Aerospace & Defense","BA",23,36,52,60,89,137,165,237,243,269,FALSE
+"149","bookingholdings.com","Booking Holdings",340,"Technology","BKNG",0,0,0,0,0,63,67,74,82,105,FALSE
+"150","boozallen.com","Booz Allen Hamilton Holding",436,"Technology","BAH",49,81,100,120,174,165,168,162,139,147,FALSE
+"151","borgwarner.com","BorgWarner",244,"Motor Vehicles & Parts","BWA",21,28,55,61,71,80,80,98,126,145,FALSE
+"152","bostonscientific.com","Boston Scientific",319,"Health Care","BSX",73,82,85,93,110,181,207,271,295,384,FALSE
+"153","boydgaming.com","Boyd Gaming",771,"Hotels, Restaurants & Leisure","BYD",37,41,39,38,41,53,71,87,116,166,FALSE
+"154","breadfinancial.com","Bread Financial Holdings",670,"Business Services","BFH",0,0,0,0,0,0,5,4,8,226,FALSE
+"155","brighthealthcare.com","Bright Health Group",688,"Health Care","BHG",3,6,6,6,4,6,6,4,174,201,FALSE
+"156","brighthousefinancial.com","Brighthouse Financial",468,"Financials","BHF",0,0,0,10,62,144,160,175,188,203,FALSE
+"157","brightview.com","BrightView Holdings",916,"Business Services","BV",0,1,5,45,72,119,125,141,153,167,FALSE
+"158","brinker.com","Brinker International",779,"Hotels, Restaurants & Leisure","EAT",9,12,13,28,37,77,98,116,119,120,FALSE
+"159","brinks.com","Brink's",675,"Business Services","BCO",23,27,45,68,67,93,106,138,192,201,FALSE
+"160","broadcom.com","Broadcom",128,"Technology","AVGO",42,59,70,94,86,128,172,264,274,340,FALSE
+"161","broadridge.com","Broadridge Financial Solutions",608,"Business Services","BR",56,94,95,105,135,135,150,191,197,297,FALSE
+"162","brookdale.com","Brookdale Senior Living",891,"Health Care","BKD",6,94,116,129,116,126,129,135,133,171,FALSE
+"163","brown-forman.com","Brown-Forman",759,"Food, Beverages & Tobacco","BFB",25,27,66,57,80,102,105,111,137,145,FALSE
+"164","bruker.com","Bruker",932,"Technology","BRKR",29,48,61,87,110,124,161,211,246,261,FALSE
+"165","brunswick.com","Brunswick",533,"Transportation","BC",13,22,35,35,35,52,124,136,172,191,FALSE
+"166","burlingtoninvestors.com","Burlington Stores",377,"Retailing","BURL",0,14,18,19,20,51,46,57,63,60,FALSE
+"167","bwxt.com","BWX Technologies",995,"Aerospace & Defense","BWXT",0,1,30,41,66,77,72,95,89,102,FALSE
+"168","bxp.com","Boston Properties",857,"Financials","BXP",17,21,11,11,11,11,16,57,92,93,FALSE
+"169","cabotcorp.com","Cabot",766,"Chemicals","CBT",9,28,49,53,63,77,98,122,123,131,FALSE
+"170","caci.com","CACI International",522,"Technology","CACI",20,24,41,43,46,81,104,156,178,224,FALSE
+"171","cadence.com","Cadence Design Systems",834,"Technology","CDNS",39,55,64,119,135,150,214,293,280,312,FALSE
+"172","caesars.com","Caesars Entertainment",335,"Hotels, Restaurants & Leisure","CZR",67,139,194,158,179,239,287,337,309,308,FALSE
+"173","caleres.com","Caleres",881,"Retailing","CAL",0,0,50,57,64,114,112,115,151,180,FALSE
+"174","callawaygolf.com","Topgolf Callaway Brands",811,"Hotels, Restaurants & Leisure","ELY",77,86,142,158,176,212,254,322,309,321,FALSE
+"175","calumetspecialty.com","Calumet Specialty Products Partners",807,"Energy","CLMT",17,29,26,34,33,78,93,97,83,80,FALSE
+"176","campbellsoupcompany.com","Campbell Soup",409,"Food, Beverages & Tobacco","CPB",36,86,116,132,118,134,127,145,164,154,FALSE
+"177","campingworld.com","Camping World Holdings",475,"Retailing","CWH",60,78,125,149,134,185,226,267,268,311,FALSE
+"178","capitalone.com","Capital One Financial",108,"Financials","COF",32,68,81,97,150,205,225,247,211,281,FALSE
+"179","cardinalhealth.com","Cardinal Health",15,"Health Care","CAH",46,67,144,152,159,195,202,252,253,293,FALSE
+"180","carlisle.com","Carlisle",604,"Materials","CSL",19,22,40,50,74,60,80,99,89,100,FALSE
+"181","carlyle.com","Carlyle Group",398,"Financials","CG",30,48,58,70,78,122,93,124,126,134,FALSE
+"182","carmax.com","CarMax",174,"Retailing","KMX",47,90,104,127,142,156,195,209,227,266,FALSE
+"183","carters.com","Carter's",754,"Apparel","CRI",82,100,104,109,127,159,210,250,270,281,FALSE
+"184","carvana.com","Carvana",290,"Retailing","CVNA",38,103,113,120,127,138,163,244,227,186,FALSE
+"185","caseys.com","Casey's General Stores",445,"Retailing","CASY",41,39,60,70,74,122,168,211,211,222,FALSE
+"186","catalent.com","Catalent",692,"Health Care","CTLT",71,98,100,112,107,109,165,198,203,230,FALSE
+"187","caterpillar.com","Caterpillar",73,"Industrials","CAT",19,38,35,38,48,67,108,143,174,156,FALSE
+"188","cboe.com","Cboe Global Markets",753,"Financials","CBOE",71,113,126,134,138,189,195,229,191,188,FALSE
+"189","cbrands.com","Constellation Brands",403,"Food, Beverages & Tobacco","STZ",25,29,42,38,42,106,124,153,171,244,FALSE
+"190","cbre.com","CBRE Group",126,"Financials","CBRE",42,52,89,108,117,177,196,220,240,290,FALSE
+"191","cdw.com","CDW",166,"Technology","CDW",68,89,119,159,181,226,237,313,315,324,FALSE
+"192","celanese.com","Celanese",406,"Chemicals","CE",29,44,44,44,65,100,117,159,121,127,FALSE
+"193","centene.com","Centene",26,"Health Care","CNC",38,56,79,82,90,115,97,162,177,167,FALSE
+"194","centerpointenergy.com","CenterPoint Energy",414,"Energy","CNP",21,49,71,74,97,122,128,199,275,256,FALSE
+"195","central.com","Central Garden & Pet",785,"Household Products","CENT",23,41,56,83,81,110,176,177,154,140,FALSE
+"196","centuryaluminum.com","Century Aluminum",979,"Materials","CENX",28,29,39,34,33,38,45,61,54,58,FALSE
+"197","centurycommunities.com","Century Communities",673,"Engineering & Construction","CCS",45,105,116,134,151,119,129,182,130,131,FALSE
+"198","cerner.com","Cerner",539,"Health Care","",25,43,42,73,98,137,176,249,236,294,FALSE
+"199","cfindustries.com","CF Industries Holdings",492,"Chemicals","CF",11,14,13,33,36,54,45,48,46,66,FALSE
+"200","championx.com","ChampionX",819,"Energy","CHX",13,20,28,30,29,25,43,153,180,134,FALSE
+"201","changehealthcare.com","Change Healthcare",815,"Health Care","",32,58,70,85,129,205,265,276,258,272,FALSE
+"202","charter.com","Charter Communications",69,"Telecommunications","CHTR",24,14,14,14,14,121,176,219,187,192,FALSE
+"203","chemed.com","Chemed",993,"Health Care","CHE",6,18,15,15,27,26,30,35,54,52,FALSE
+"204","chemours.com","Chemours",502,"Chemicals","CC",0,0,63,102,108,114,135,135,153,166,FALSE
+"205","cheniere.com","Cheniere Energy",233,"Energy","LNG",8,10,23,24,34,44,67,96,103,106,FALSE
+"206","chevron.com","Chevron",16,"Energy","CVX",36,51,58,85,79,110,140,189,187,242,FALSE
+"207","chewy.com","Chewy",394,"Retailing","CHWY",63,79,76,83,108,153,195,249,278,300,FALSE
+"208","chipotle.com","Chipotle",450,"Hotels, Restaurants & Leisure","CMG",92,84,110,119,123,184,246,294,294,335,FALSE
+"209","chk.com","Chesapeake Energy",535,"Energy","CHK",45,70,67,66,64,79,94,106,128,156,FALSE
+"210","chrobinson.com","C.H. Robinson Worldwide",154,"Transportation","CHRW",28,43,74,92,150,163,193,241,268,285,FALSE
+"211","chs.net","Community Health Systems",304,"Health Care","CYH",16,42,36,43,55,62,68,86,88,89,FALSE
+"212","chsinc.com","CHS",95,"Food, Beverages & Tobacco","",18,45,58,65,92,111,142,186,201,201,FALSE
+"213","churchdwight.com","Church & Dwight",586,"Household Products","CHD",19,25,59,69,99,79,87,111,128,141,FALSE
+"214","ciena.com","Ciena",738,"Technology","CIEN",75,103,106,127,161,204,207,310,332,342,FALSE
+"215","cigna.com","Cigna",12,"Health Care","CI",77,104,94,120,135,173,191,232,223,277,FALSE
+"216","cinfin.com","Cincinnati Financial",367,"Financials","CINF",38,70,125,121,127,130,125,116,122,135,FALSE
+"217","cintas.com","Cintas",470,"Business Services","CTAS",48,52,79,107,139,173,198,222,225,243,FALSE
+"218","cisco.com","Cisco Systems",74,"Technology","CSCO",108,186,248,368,434,469,449,583,579,687,FALSE
+"219","citigroup.com","Citigroup",44,"Financials","C",36,38,34,46,68,143,153,184,152,131,FALSE
+"220","citizensbank.com","Citizens Financial Group",473,"Financials","CFG",47,94,106,124,140,181,204,250,288,299,FALSE
+"221","citrix.com","Citrix Systems",797,"Technology","CTXS",69,139,171,185,258,306,327,381,388,469,FALSE
+"222","cleanharbors.com","Clean Harbors",715,"Business Services","CLH",23,29,62,81,92,87,127,134,137,145,FALSE
+"223","clearchanneloutdoor.com","Clear Channel Outdoor Holdings",973,"Business Services","CCO",43,63,73,77,88,91,93,107,113,121,FALSE
+"224","clevelandcliffs.com","Cleveland-Cliffs",171,"Materials","CLF",0,0,0,9,56,47,54,80,159,164,FALSE
+"225","clr.com","Continental Resources",544,"Energy","CLR",26,36,31,50,45,49,57,87,72,78,FALSE
+"226","cmc.com","Commercial Metals",484,"Materials","CMC",23,27,27,51,45,46,57,111,104,143,FALSE
+"227","cmegroup.com","CME Group",636,"Financials","CME",102,136,145,153,177,227,251,299,257,272,FALSE
+"228","cmsenergy.com","CMS Energy",451,"Energy","CMS",15,30,56,59,57,49,58,78,86,96,FALSE
+"229","cnoinc.com","CNO Financial Group",682,"Financials","CNO",22,26,27,33,35,57,75,102,105,126,FALSE
+"230","coca-colacompany.com","Coca-Cola",93,"Food, Beverages & Tobacco","KO",58,75,92,98,128,128,126,134,161,179,FALSE
+"231","cognizant.com","Cognizant Technology Solutions",194,"Technology","CTSH",63,89,94,107,137,209,234,293,307,330,FALSE
+"232","coinbase.com","Coinbase Global",437,"Financials","COIN",67,105,103,105,108,135,150,179,191,231,FALSE
+"233","cokeconsolidated.com","Coca-Cola Consolidated",560,"Food, Beverages & Tobacco","COKE",29,29,28,26,49,42,84,94,96,157,FALSE
+"234","colgatepalmolive.com","Colgate-Palmolive",211,"Household Products","CL",34,32,46,55,88,98,93,122,145,228,FALSE
+"235","columbia.com","Columbia Sportswear",813,"Apparel","COLM",90,126,155,180,173,235,265,299,249,302,FALSE
+"236","comcastcorporation.com","Comcast",28,"Telecommunications","CMCSA",0,0,0,44,65,32,5,8,6,8,FALSE
+"237","comerica.com","Comerica",825,"Financials","CMA",33,47,94,72,97,129,171,190,229,246,FALSE
+"238","comfortsystemsusa.com","Comfort Systems USA",820,"Engineering & Construction","FIX",6,33,47,47,52,65,74,125,155,139,FALSE
+"239","commscope.com","CommScope Holding",405,"Technology","COMM",52,88,100,113,158,169,166,276,291,314,FALSE
+"240","compass.com","Compass",495,"Technology","COMP",17,19,15,32,54,123,193,271,302,361,FALSE
+"241","conagrabrands.com","Conagra Brands",331,"Food, Beverages & Tobacco","CAG",0,0,0,22,25,52,89,121,120,173,FALSE
+"242","concentrix.com","Concentrix",557,"Technology","CNXC",67,83,102,114,107,130,172,260,274,358,FALSE
+"243","conduent.com","Conduent",678,"Business Services","CNDT",4,1,1,27,126,181,202,256,343,384,FALSE
+"244","conedison.com","Consolidated Edison",276,"Energy","ED",20,28,27,42,46,52,80,83,91,74,FALSE
+"245","connection.com","PC Connection",855,"Wholesalers","CNXN",8,7,7,22,88,125,139,178,194,216,FALSE
+"246","conocophillips.com","ConocoPhillips",77,"Energy","COP",34,50,64,113,132,134,139,159,155,148,FALSE
+"247","coopercos.com","Cooper Cos.",851,"Health Care","COO",44,43,48,50,50,61,76,94,102,114,FALSE
+"248","cooperstandard.com","Cooper-Standard Holdings",952,"Motor Vehicles & Parts","CPS",26,41,42,42,48,55,63,85,161,165,FALSE
+"249","copart.com","Copart",898,"Retailing","CPRT",28,33,68,99,75,129,189,167,214,224,FALSE
+"250","coreandmain.com","Core & Main",606,"Wholesalers","CNM",0,0,0,0,27,54,92,128,188,198,FALSE
+"251","cornerstonebuildingbrands.com","Cornerstone Building Brands",559,"Materials","",0,0,0,0,0,0,31,76,132,145,FALSE
+"252","corning.com","Corning",263,"Industrials","GLW",35,44,64,66,129,176,183,235,249,257,FALSE
+"253","corporate.carrier.com","Carrier Global",169,"Industrials","CARR",0,0,0,0,0,0,0,0,0,0,FALSE
+"254","corporate.televisaunivision.com","Univision Communciations",866,"Media","",0,0,0,0,0,0,0,0,0,0,FALSE
+"255","corteva.com","Corteva",237,"Food, Beverages & Tobacco","CTVA",0,0,0,0,8,111,190,288,327,349,FALSE
+"256","costco.com","Costco Wholesale",11,"Retailing","COST",62,78,89,81,86,139,186,207,245,317,FALSE
+"257","coterra.com","Coterra Energy",762,"Energy","CTRA",1,1,1,1,0,8,18,14,70,104,FALSE
+"258","coty.com","Coty",554,"Household Products","COTY",40,69,81,81,88,119,190,160,177,197,FALSE
+"259","countryfinancial.com","Country Financial",690,"Financials","",43,73,73,111,100,118,133,152,142,164,FALSE
+"260","covetrus.com/","Covetrus",643,"Health Care","CVET",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","cowen.com","Cowen",998,"Financials","COWN",30,34,37,40,82,105,121,146,126,146,FALSE
+"262","crackerbarrel.com","Cracker Barrel Old Country Store",871,"Hotels, Restaurants & Leisure","CBRL",86,96,125,114,138,176,203,264,222,222,FALSE
+"263","craneco.com","Crane Holdings",767,"Industrials","CR",12,16,19,17,23,26,30,49,47,52,FALSE
+"264","crestwoodlp.com","Crestwood Equity Partners",644,"Energy","CEQP",24,29,44,52,72,80,49,67,70,84,FALSE
+"265","criver.com","Charles River Laboratories International",745,"Health Care","CRL",47,52,61,86,144,179,230,259,273,329,FALSE
+"266","crocs.com","Crocs",954,"Apparel","CROX",71,98,121,141,142,188,220,299,247,223,FALSE
+"267","crossamericapartners.com","CrossAmerica Partners",776,"Energy","CAPL",0,26,31,36,31,35,34,42,62,60,FALSE
+"268","crowncastle.com","Crown Castle International",503,"Financials","CCI",25,48,45,52,64,110,131,164,160,202,FALSE
+"269","crowncork.com","Crown Holdings",286,"Materials","CCK",27,30,74,83,70,97,106,100,116,109,FALSE
+"270","csx.com","CSX",298,"Transportation","CSX",39,50,75,55,59,80,101,166,177,204,FALSE
+"271","cummins.com","Cummins",149,"Industrials","CMI",14,19,34,82,139,204,214,275,276,380,FALSE
+"272","cunamutual.com","CUNA Mutual Group",602,"Financials","",36,40,50,87,85,102,132,162,154,153,FALSE
+"273","curtisswright.com","Curtiss-Wright",921,"Industrials","CW",43,43,35,39,40,46,84,103,101,147,FALSE
+"274","cvshealth.com","CVS Health",4,"Health Care","CVS",0,76,106,130,158,195,196,229,270,369,FALSE
+"275","dana.com","Dana",391,"Motor Vehicles & Parts","DAN",24,27,44,45,57,71,104,156,172,176,FALSE
+"276","danaher.com","Danaher",118,"Health Care","DHR",28,43,49,56,46,65,79,101,126,166,FALSE
+"277","darden.com","Darden Restaurants",465,"Hotels, Restaurants & Leisure","DRI",23,38,59,43,54,78,94,142,147,124,FALSE
+"278","darlingii.com","Darling Ingredients",631,"Food, Beverages & Tobacco","DAR",24,25,51,43,54,76,83,115,106,112,FALSE
+"279","davita.com","DaVita",323,"Health Care","DVA",108,142,153,168,194,219,241,274,285,286,FALSE
+"280","dcpmidstream.com","DCP Midstream",344,"Energy","DCP",12,26,25,32,44,53,63,85,97,95,FALSE
+"281","deckers.com","Deckers Outdoor",918,"Apparel","DECK",31,52,78,91,87,86,98,138,142,189,FALSE
+"282","deere.com","Deere",84,"Industrials","DE",36,74,83,149,199,248,262,295,271,381,FALSE
+"283","delekus.com","Delek US Holdings",346,"Energy","DK",16,16,18,24,24,37,76,111,112,123,FALSE
+"284","delltechnologies.com","Dell Technologies",31,"Technology","DELL",0,0,1,52,110,228,295,348,396,336,FALSE
+"285","delta.com","Delta Air Lines",113,"Transportation","DAL",42,65,88,101,149,202,222,269,261,334,FALSE
+"286","dentsplysirona.com","Dentsply Sirona",668,"Health Care","XRAY",0,0,2,39,159,221,272,300,308,305,FALSE
+"287","designerbrands.com","Designer Brands",803,"Retailing","DBI",0,5,2,1,1,3,26,65,82,89,FALSE
+"288","devonenergy.com","Devon Energy",309,"Energy","DVN",12,50,57,60,67,70,74,94,98,140,FALSE
+"289","dexcom.com","DexCom",929,"Health Care","DXCM",53,74,69,102,176,206,259,352,385,447,FALSE
+"290","diamondbackenergy.com","Diamondback Energy",479,"Energy","FANG",25,29,34,34,48,48,53,56,59,51,FALSE
+"291","dickssportinggoods.com","Dick's Sporting Goods",307,"Retailing","DKS",54,65,97,146,167,185,223,204,232,235,FALSE
+"292","dieboldnixdorf.com","Diebold Nixdorf",704,"Technology","DBD",0,0,0,69,84,117,143,162,168,202,FALSE
+"293","digitalrealty.com","Digital Realty Trust",656,"Financials","DLR",30,105,138,130,138,173,165,190,180,199,FALSE
+"294","dillards.com","Dillard&#8217;s",488,"Retailing","DDS",88,100,110,100,113,156,160,199,200,186,FALSE
+"295","discover.com","Discover Financial Services",281,"Financials","DFS",41,56,95,165,187,225,249,320,324,368,FALSE
+"296","dish.com","DISH Network",205,"Telecommunications","DISH",61,116,132,139,205,225,211,277,324,369,FALSE
+"297","dnb.com","Dun & Bradstreet Holdings",987,"Business Services","DNB",60,108,131,157,191,268,266,290,321,407,FALSE
+"298","docusign.com","DocuSign",1000,"Technology","DOCU",101,131,144,133,177,244,267,287,314,375,FALSE
+"299","dollargeneral.com","Dollar General",106,"Retailing","DG",65,116,121,168,177,221,256,284,215,222,FALSE
+"300","dollartree.com","Dollar Tree",137,"Retailing","DLTR",40,70,110,134,181,189,161,143,119,153,FALSE
+"301","dominionenergy.com","Dominion Energy",257,"Energy","D",9,15,17,15,47,91,157,198,212,225,FALSE
+"302","dominos.com","Domino's Pizza",662,"Hotels, Restaurants & Leisure","DPZ",61,72,107,101,109,130,158,222,226,264,FALSE
+"303","domtar.com","Domtar",680,"Materials","",18,24,24,65,81,128,124,170,165,188,FALSE
+"304","donaldson.com","Donaldson",861,"Industrials","DCI",8,16,63,91,129,158,151,154,174,199,FALSE
+"305","dovercorporation.com","Dover",433,"Industrials","DOV",33,36,36,38,52,78,79,84,76,71,FALSE
+"306","dow.com","Dow",64,"Chemicals","DOW",87,114,144,167,204,232,201,233,208,232,FALSE
+"307","drhorton.com","D.R. Horton",124,"Engineering & Construction","DHI",40,63,89,100,127,166,167,197,174,185,FALSE
+"308","dropbox.com","Dropbox",988,"Technology","DBX",41,81,111,110,128,220,251,301,308,337,FALSE
+"309","dteenergy.com","DTE Energy",239,"Energy","DTE",18,20,57,56,62,114,133,221,228,280,FALSE
+"310","duke-energy.com","Duke Energy",145,"Energy","DUK",25,35,40,61,78,122,177,199,183,268,FALSE
+"311","dupont.com","DuPont",213,"Chemicals","DD",76,121,161,163,181,208,265,327,305,394,FALSE
+"312","dxc.technology","DXC Technology",207,"Technology","DXC",0,0,0,0,124,192,233,288,293,163,FALSE
+"313","dycomind.com","Dycom Industries",812,"Engineering & Construction","DY",14,17,18,39,41,39,35,44,94,105,FALSE
+"314","ea.com","Electronic Arts",552,"Media","EA",42,44,44,181,176,234,258,294,367,449,FALSE
+"315","eastman.com","Eastman Chemical",349,"Chemicals","EMN",22,31,49,83,100,147,158,194,208,292,FALSE
+"316","ebay.com","eBay",301,"Technology","EBAY",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","ecolab.com","Ecolab",293,"Chemicals","ECL",54,89,115,133,202,279,320,345,343,451,FALSE
+"318","edisoninvestor.com","Edison International",243,"Energy","EIX",0,2,2,2,17,16,9,6,3,4,FALSE
+"319","edwardjones.com","Jones Financial (Edward Jones)",303,"Financials","",11,17,52,65,109,124,125,217,234,240,FALSE
+"320","edwards.com","Edwards Lifesciences",582,"Health Care","EW",20,25,51,77,126,161,222,275,322,350,FALSE
+"321","elanco.com","Elanco Animal Health",628,"Health Care","ELAN",27,33,33,56,76,89,111,189,218,277,FALSE
+"322","elcompanies.com","Estée Lauder",228,"Household Products","EL",22,23,30,55,51,74,125,170,169,211,FALSE
+"323","elementsolutionsinc.com","Element Solutions",941,"Chemicals","ESI",0,0,0,0,3,3,38,51,54,107,FALSE
+"324","elevancehealth.com","Elevance Health",20,"Health Care","ELV",0,0,0,0,0,0,0,0,4,168,FALSE
+"325","emcorgroup.com","EMCOR Group",357,"Engineering & Construction","EME",21,34,34,36,40,44,46,53,45,51,FALSE
+"326","emerson.com","Emerson Electric",199,"Industrials","EMR",8,29,52,96,124,162,226,342,376,466,FALSE
+"327","encompasshealth.com","Encompass Health",592,"Health Care","EHC",17,33,34,35,38,155,146,187,234,254,FALSE
+"328","encorewire.com","Encore Wire",910,"Industrials","WIRE",23,29,31,34,61,73,61,50,52,56,FALSE
+"329","endeavorco.com","Endeavor Group Holdings",596,"Media","EDR",1,1,12,9,30,36,42,55,84,92,FALSE
+"330","energizerholdings.com","Energizer Holdings",826,"Household Products","ENR",24,30,35,51,55,56,70,85,82,106,FALSE
+"331","energytransfer.com","Energy Transfer",54,"Energy","ET",27,28,33,29,33,71,118,145,177,210,FALSE
+"332","enersys.com","EnerSys",838,"Industrials","ENS",8,22,25,34,43,57,89,141,157,183,FALSE
+"333","enlink.com","EnLink Midstream",485,"Energy","ENLC",5,38,36,38,53,66,101,107,122,126,FALSE
+"334","enovis.com","Enovis",708,"Industrials","ENOV",1,1,0,1,1,1,1,13,17,99,FALSE
+"335","ensigngroup.net","Ensign Group",904,"Health Care","ENSG",25,25,25,28,65,84,76,95,84,97,FALSE
+"336","entegris.com","Entegris",959,"Technology","ENTG",26,26,31,57,63,106,134,164,177,235,FALSE
+"337","entergy.com","Entergy",321,"Energy","ETR",19,41,58,59,69,114,171,205,197,234,FALSE
+"338","enterpriseproducts.com","Enterprise Products Partners",89,"Energy","EPD",24,18,18,38,25,26,39,57,76,82,FALSE
+"339","envistaco.com","Envista Holdings",852,"Health Care","NVST",0,0,0,0,0,5,54,138,159,194,FALSE
+"340","eogresources.com","EOG Resources",193,"Energy","EOG",12,15,20,23,26,36,87,146,133,147,FALSE
+"341","epam.com","EPAM Systems",721,"Technology","EPAM",56,65,73,77,101,127,150,206,213,311,FALSE
+"342","eqt.com","EQT",821,"Energy","EQT",13,34,33,36,39,54,92,115,105,109,FALSE
+"343","equifax.com","Equifax",617,"Business Services","EFX",81,97,92,114,178,214,248,279,274,327,FALSE
+"344","equinix.com","Equinix",487,"Financials","EQIX",62,95,138,135,187,232,276,334,409,450,FALSE
+"345","equitableholdings.com","Equitable Holdings",336,"Financials","EQH",0,0,1,1,12,16,7,42,78,70,FALSE
+"346","equityapartments.com","Equity Residential",928,"Financials","EQR",70,91,97,151,164,156,156,194,183,183,FALSE
+"347","erieinsurance.com","Erie Insurance Group",368,"Financials","",28,62,87,84,89,99,105,126,159,164,FALSE
+"348","etsy.com","Etsy",953,"Technology","ETSY",60,97,97,139,190,210,201,276,303,432,FALSE
+"349","euronetworldwide.com","Euronet Worldwide",831,"Business Services","EEFT",15,16,18,18,20,40,108,135,166,141,FALSE
+"350","evercore.com","Evercore",783,"Financials","EVR",20,24,36,41,45,69,81,95,111,122,FALSE
+"351","eversource.com","Eversource Energy",358,"Energy","ES",4,11,8,19,69,79,121,146,169,200,FALSE
+"352","exeloncorp.com","Exelon",99,"Energy","EXC",24,28,42,40,51,63,107,181,190,207,FALSE
+"353","expediagroup.com","Expedia Group",404,"Retailing","EXPE",1,2,2,2,12,78,104,180,245,269,FALSE
+"354","expeditors.com","Expeditors Intl. of Washington",225,"Transportation","EXPD",34,43,42,57,64,90,97,125,143,148,FALSE
+"355","expworldholdings.com","eXp World Holdings",717,"Financials","EXPI",0,0,0,81,83,77,70,91,124,123,FALSE
+"356","exxonmobil.com","Exxon Mobil",6,"Energy","XOM",22,34,39,88,129,158,203,255,284,304,FALSE
+"357","f5.com","F5",908,"Technology","FFIV",23,23,23,73,121,170,217,322,341,410,FALSE
+"358","fanniemae.com","Fannie Mae",33,"Financials","FNMA",13,16,16,33,42,109,157,218,191,211,FALSE
+"359","farmers.com","Farmers Insurance Exchange",264,"Financials","",62,74,77,86,98,185,253,293,236,280,FALSE
+"360","fastenal.com","Fastenal",525,"Wholesalers","FAST",24,46,49,47,64,95,124,135,163,172,FALSE
+"361","fbhs.com","Fortune Brands Home & Security",444,"Household Products","FBHS",26,31,32,47,52,74,69,94,136,117,FALSE
+"362","fcx.com","Freeport-McMoRan",157,"Energy","FCX",16,19,26,30,52,57,67,87,98,96,FALSE
+"363","federatedinsurance.com","Federated Mutual Insurance",907,"Financials","",7,9,9,15,16,47,46,70,62,90,FALSE
+"364","fedex.com","FedEx",39,"Transportation","FDX",43,119,117,153,197,307,346,396,389,457,FALSE
+"365","firstam.com","First American Financial",383,"Financials","FAF",60,86,101,131,158,246,216,271,276,368,FALSE
+"366","firstenergycorp.com","FirstEnergy",343,"Energy","FE",32,35,49,74,90,108,136,147,162,159,FALSE
+"367","firsthorizon.com","First Horizon",794,"Financials","FHN",33,35,35,34,33,36,122,170,201,193,FALSE
+"368","firstrepublic.com","First Republic Bank",575,"Financials","FRC",23,56,62,87,117,155,205,261,281,292,FALSE
+"369","firstsolar.com","First Solar",849,"Energy","FSLR",43,64,56,60,97,92,112,129,128,122,FALSE
+"370","fiserv.com","Fiserv",227,"Business Services","FISV",44,72,81,97,115,137,171,256,323,348,FALSE
+"371","fisglobal.com","Fidelity National Information Services",268,"Business Services","FIS",47,47,60,58,90,136,175,262,284,313,FALSE
+"372","fivebelow.com","Five Below",864,"Retailing","FIVE",43,75,93,116,115,184,212,209,215,199,FALSE
+"373","fleetcor.com","Fleetcor Technologies",868,"Business Services","FLT",22,28,26,36,42,79,79,117,109,114,FALSE
+"374","flooranddecor.com","Floor & Decor Holdings",764,"Retailing","FND",60,82,82,115,170,212,236,215,240,235,FALSE
+"375","flowersfoods.com","Flowers Foods",664,"Food, Beverages & Tobacco","FLO",22,22,25,25,23,76,73,107,114,123,FALSE
+"376","flowserve.com","Flowserve",744,"Industrials","FLS",28,33,43,106,109,130,155,186,202,216,FALSE
+"377","fluor.com","Fluor",259,"Engineering & Construction","FLR",31,50,58,64,99,95,99,115,115,127,FALSE
+"378","fmc.com","FMC",603,"Chemicals","FMC",43,50,69,70,75,77,106,193,265,264,FALSE
+"379","fmglobal.com","FM Global",418,"Financials","",33,41,41,81,93,143,154,174,175,191,FALSE
+"380","fnf.com","Fidelity National Financial",238,"Financials","FNF",19,22,24,28,46,68,85,130,142,189,FALSE
+"381","footlocker.com/corp","Foot Locker",390,"Retailing","FL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","ford.com","Ford Motor",22,"Motor Vehicles & Parts","F",81,104,169,220,239,279,293,302,338,393,FALSE
+"383","fortinet.com","Fortinet",778,"Technology","FTNT",51,77,106,127,155,223,240,316,361,397,FALSE
+"384","fortive.com","Fortive",579,"Industrials","FTV",0,0,10,35,55,64,97,154,186,183,FALSE
+"385","foxcorporation.com","Fox",287,"Media","FOXA",0,0,0,1,7,19,48,77,78,81,FALSE
+"386","franchisegrp.com","Franchise Group",774,"Retailing","FRG",2,2,2,2,0,0,11,31,105,91,FALSE
+"387","franklinresources.com","Franklin Resources",411,"Financials","BEN",13,17,33,54,61,82,51,63,62,83,FALSE
+"388","freddiemac.com","Freddie Mac",56,"Financials","FMCC",17,28,60,74,88,109,146,198,229,235,FALSE
+"389","frontier.com","Frontier Communications",499,"Telecommunications","FYBR",77,134,158,217,259,319,363,443,383,411,FALSE
+"390","fticonsulting.com","FTI Consulting",882,"Business Services","FCN",71,90,109,100,104,125,132,143,165,177,FALSE
+"391","gamestop.com","GameStop",526,"Retailing","GME",105,130,168,184,265,300,300,330,336,359,FALSE
+"392","gannett.com","Gannett",801,"Media","GCI",43,66,76,56,68,93,148,170,171,181,FALSE
+"393","gapinc.com","Gap",220,"Retailing","GPS",47,64,86,89,90,113,133,148,134,147,FALSE
+"394","garrettmotion.com","Garrett Motion",736,"Motor Vehicles & Parts","GTX",0,0,0,0,0,104,166,251,260,286,FALSE
+"395","gartner.com","Gartner",633,"Technology","IT",42,63,72,101,160,208,232,287,313,356,FALSE
+"396","gd.com","General Dynamics",94,"Aerospace & Defense","GD",7,7,25,54,58,71,72,78,89,84,FALSE
+"397","ge.com","General Electric",48,"Industrials","GE",34,35,42,147,226,290,275,392,384,367,FALSE
+"398","generac.com","Generac Holdings",723,"Industrials","GNRC",45,71,71,70,126,147,195,234,252,281,FALSE
+"399","generalmills.com","General Mills",201,"Food, Beverages & Tobacco","GIS",34,51,93,104,124,154,183,225,225,312,FALSE
+"400","genesco.com","Genesco",931,"Retailing","GCO",33,34,38,41,35,43,93,121,65,126,FALSE
+"401","genesisenergy.com","Genesis Energy",994,"Energy","GEL",19,22,31,64,58,58,62,66,66,70,FALSE
+"402","genpt.com","Genuine Parts",191,"Wholesalers","GPC",20,21,62,55,58,95,112,100,122,124,FALSE
+"403","genworth.com","Genworth Financial",434,"Financials","GNW",36,68,84,99,108,155,214,261,249,220,FALSE
+"404","geogroup.com","GEO Group",966,"Business Services","GEO",36,45,43,77,85,88,111,138,123,135,FALSE
+"405","ghco.com","Graham Holdings",804,"Business Services","GHC",4,25,21,22,28,46,44,53,69,66,FALSE
+"406","giii.com","G-III Apparel Group",885,"Apparel","GIII",15,25,30,31,34,64,56,65,58,102,FALSE
+"407","gilead.com","Gilead Sciences",129,"Health Care","GILD",38,45,61,66,70,130,174,230,230,285,FALSE
+"408","globalp.com","Global Partners",280,"Wholesalers","GLP",7,8,9,11,12,32,59,108,137,185,FALSE
+"409","globalpayments.com","Global Payments",407,"Business Services","GPN",4,5,4,4,4,25,30,36,85,164,FALSE
+"410","globelifeinsurance.com","Globe Life",594,"Financials","GL",28,44,43,57,56,59,77,119,108,133,FALSE
+"411","gm.com","General Motors",25,"Motor Vehicles & Parts","GM",21,23,23,67,109,150,151,182,228,257,FALSE
+"412","gms.com","GMS",786,"Wholesalers","GMS",13,17,64,84,102,88,99,140,129,138,FALSE
+"413","godaddy.com","GoDaddy",712,"Technology","GDDY",33,28,27,27,27,27,35,327,349,340,FALSE
+"414","goldmansachs.com","Goldman Sachs Group",57,"Financials","GS",23,37,49,61,53,68,82,112,118,115,FALSE
+"415","goodyear.com","Goodyear Tire & Rubber",209,"Motor Vehicles & Parts","GT",87,116,146,168,182,263,256,293,319,320,FALSE
+"416","gpreinc.com","Green Plains",870,"Energy","GPRE",48,44,93,65,65,75,68,115,108,142,FALSE
+"417","grainger.com","W.W. Grainger",284,"Wholesalers","GWW",70,89,124,131,163,190,208,249,274,288,FALSE
+"418","graniteconstruction.com","Granite Construction",749,"Engineering & Construction","GVA",17,22,35,49,47,59,55,95,88,106,FALSE
+"419","graphicpkg.com","Graphic Packaging Holding",466,"Materials","GPK",13,30,30,38,43,52,110,142,153,152,FALSE
+"420","gray.tv","Gray Television",935,"Media","GTN",26,33,31,46,50,53,77,102,249,287,FALSE
+"421","graybar.com","Graybar Electric",399,"Wholesalers","",39,49,61,77,60,111,142,146,147,174,FALSE
+"422","greif.com","Greif",561,"Materials","GEF",24,31,62,78,94,72,99,193,200,234,FALSE
+"423","griffon.com","Griffon",919,"Materials","GFF",0,0,15,53,69,75,72,79,84,93,FALSE
+"424","groceryoutlet.com","Grocery Outlet Holding",816,"Food & Drug Stores","GO",28,60,51,82,121,131,164,177,178,198,FALSE
+"425","group1auto.com","Group 1 Automotive",273,"Retailing","GPI",44,50,56,62,105,67,85,110,94,97,FALSE
+"426","guardianlife.com","Guardian Life Ins. Co. of America",247,"Financials","",53,65,56,59,90,177,189,234,217,191,FALSE
+"427","guess.com","Guess",911,"Retailing","GES",73,96,103,137,170,179,174,223,233,199,FALSE
+"428","gxo.com","GXO Logistics",430,"Transportation","GXO",12,13,13,13,14,14,14,15,218,239,FALSE
+"429","halliburton.com","Halliburton",241,"Energy","HAL",41,59,58,53,64,89,103,145,211,230,FALSE
+"430","hanes.com","Hanesbrands",458,"Apparel","HBI",57,88,105,133,123,129,149,191,152,173,FALSE
+"431","hanover.com","Hanover Insurance Group",583,"Financials","THG",46,65,63,64,84,94,111,146,145,150,FALSE
+"432","harley-davidson.com","Harley-Davidson",572,"Transportation","HOG",66,102,122,146,212,277,304,345,368,480,FALSE
+"433","harsco.com","Harsco",991,"Business Services","HSC",29,42,49,45,49,56,90,100,98,85,FALSE
+"434","hasbro.com","Hasbro",496,"Household Products","HAS",73,110,109,119,166,214,229,232,269,300,FALSE
+"435","hbfuller.com","H.B. Fuller",787,"Chemicals","FUL",26,38,45,54,88,81,105,161,183,214,FALSE
+"436","hcahealthcare.com","HCA Healthcare",62,"Health Care","HCA",33,53,67,78,78,88,147,198,209,220,FALSE
+"437","hei.com","Hawaiian Electric Industries",863,"Energy","HE",21,27,28,34,36,34,37,44,64,57,FALSE
+"438","henryschein.com","Henry Schein",299,"Health Care","HSIC",32,61,69,88,129,159,193,227,279,283,FALSE
+"439","hertz.com","Hertz Global Holdings",462,"Retailing","HTZ",57,88,135,114,130,182,224,271,319,314,FALSE
+"440","hess.com","Hess",447,"Energy","HES",17,57,68,81,80,86,110,137,144,148,FALSE
+"441","hfsinclair.com","HF Sinclair",197,"Energy","DINO",0,0,0,0,0,0,0,0,13,106,FALSE
+"442","hgv.com","Hilton Grand Vacations",951,"Hotels, Restaurants & Leisure","HGV",1,1,1,14,93,126,142,163,155,209,FALSE
+"443","hillenbrand.com","Hillenbrand",860,"Industrials","HI",12,18,52,74,73,83,95,124,119,105,FALSE
+"444","hillrom.com","Hill-Rom Holdings",827,"Health Care","HRC",2,24,26,25,30,36,105,233,270,303,FALSE
+"445","hilton.com","Hilton Worldwide Holdings",538,"Hotels, Restaurants & Leisure","HLT",101,155,207,289,319,341,344,369,415,501,FALSE
+"446","hnicorp.com","HNI",983,"Household Products","HNI",7,10,17,40,44,63,69,98,119,119,FALSE
+"447","hologic.com","Hologic",551,"Health Care","HOLX",38,65,107,117,122,173,199,240,256,272,FALSE
+"448","homedepot.com","Home Depot",17,"Retailing","HD",119,148,167,251,232,318,335,394,375,397,FALSE
+"449","honeywell.com","Honeywell International",105,"Industrials","HON",73,111,138,187,195,239,219,274,290,476,FALSE
+"450","hormelfoods.com","Hormel Foods",327,"Food, Beverages & Tobacco","HRL",54,68,79,84,119,123,129,120,114,106,FALSE
+"451","hosthotels.com","Host Hotels & Resorts",856,"Financials","HST",13,23,30,52,53,64,92,101,99,106,FALSE
+"452","howmet.com","Howmet Aerospace",612,"Aerospace & Defense","HWM",6,5,5,6,27,31,38,50,51,67,FALSE
+"453","hp.com","HP",59,"Technology","HPQ",0,0,0,0,0,0,0,0,0,0,TRUE
+"454","hpe.com","Hewlett Packard Enterprise",123,"Technology","HPE",47,86,117,224,332,377,308,346,380,459,FALSE
+"455","hrblock.com","H&R Block",741,"Financials","HRB",134,185,197,182,200,214,264,285,287,296,FALSE
+"456","hubbell.com","Hubbell",635,"Industrials","HUBB",15,19,21,49,64,116,143,180,199,247,FALSE
+"457","hubgroup.com","Hub Group",669,"Transportation","HUBG",40,53,61,94,103,122,118,175,131,135,FALSE
+"458","humana.com","Humana",40,"Health Care","HUM",56,93,112,121,95,156,240,327,301,333,FALSE
+"459","huntington.com","Huntington Bancshares",521,"Financials","HBAN",34,55,65,59,63,102,169,175,248,310,FALSE
+"460","huntingtoningalls.com","Huntington Ingalls Industries",370,"Aerospace & Defense","HII",26,39,37,89,95,121,136,155,170,178,FALSE
+"461","huntsman.com","Huntsman",410,"Chemicals","HUN",37,38,40,44,40,67,60,106,84,94,FALSE
+"462","hyatt.com","Hyatt Hotels",824,"Hotels, Restaurants & Leisure","H",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"463","hyster-yale.com","Hyster-Yale Materials Handling",818,"Industrials","HY",16,28,28,25,29,61,61,78,82,85,FALSE
+"464","iac.com","IAC",709,"Technology","IAC",27,40,43,45,45,65,75,99,103,93,FALSE
+"465","ibm.com","IBM",49,"Technology","IBM",38,81,124,226,367,380,389,533,572,568,FALSE
+"466","ice.com","Intercontinental Exchange",384,"Financials","ICE",87,103,125,85,105,157,64,69,119,176,FALSE
+"467","idexcorp.com","IDEX",887,"Industrials","IEX",15,21,29,28,36,91,79,89,102,113,FALSE
+"468","idexx.com","IDEXX Laboratories",798,"Health Care","IDXX",40,57,56,91,126,176,191,229,226,316,FALSE
+"469","ielp.com","Icahn Enterprises",328,"Financials","IEP",13,12,16,21,23,53,42,53,61,60,FALSE
+"470","iff.com","International Flavors & Fragrances",322,"Chemicals","IFF",19,32,55,79,89,131,130,156,241,225,FALSE
+"471","iheartmedia.com","iHeartMedia",742,"Media","IHRT",35,34,58,39,59,98,160,198,188,237,FALSE
+"472","ii-vi.com","Coherent",814,"Technology","COHR",21,21,20,26,46,90,104,193,183,135,FALSE
+"473","illumina.com","Illumina",651,"Technology","ILMN",45,78,105,111,124,168,197,247,270,384,FALSE
+"474","incyte.com","Incyte",835,"Health Care","INCY",19,25,56,69,65,94,127,144,147,197,FALSE
+"475","ingles-markets.com","Ingles Markets",609,"Food & Drug Stores","IMKTA",15,33,30,33,38,41,65,94,115,112,FALSE
+"476","ingredion.com","Ingredion",476,"Food, Beverages & Tobacco","INGR",30,37,57,47,56,112,113,136,168,179,FALSE
+"477","insight.com","Insight Enterprises",373,"Technology","NSIT",76,112,149,114,169,219,256,276,259,240,FALSE
+"478","insperity.com","Insperity",611,"Business Services","NSP",75,88,99,141,152,163,196,242,257,300,FALSE
+"479","intel.com","Intel",46,"Technology","INTC",99,131,190,237,239,304,310,331,305,459,FALSE
+"480","interactivebrokers.com","Interactive Brokers Group",845,"Financials","IBKR",30,24,50,56,75,86,118,113,121,113,FALSE
+"481","internationalpaper.com","International Paper",164,"Materials","IP",24,29,52,67,83,88,98,135,148,123,FALSE
+"482","interpublic.com","Interpublic Group",353,"Business Services","IPG",33,41,65,69,78,102,148,218,207,255,FALSE
+"483","intuit.com","Intuit",366,"Technology","INTU",0,0,0,0,0,0,0,0,0,0,TRUE
+"484","intuitive.com","Intuitive Surgical",545,"Health Care","ISRG",45,48,44,55,75,82,103,155,237,278,FALSE
+"485","investor.fb.com","Meta Platforms",27,"Technology","META",0,0,0,0,0,0,0,0,0,0,FALSE
+"486","investor.mcdonalds.com","McDonald's",152,"Hotels, Restaurants & Leisure","MCD",0,0,0,0,0,0,0,0,0,0,FALSE
+"487","investor.pinterestinc.com","Pinterest",913,"Technology","PINS",0,0,0,0,0,0,0,0,0,0,FALSE
+"488","investors.bestbuy.com","Best Buy",68,"Retailing","BBY",0,0,0,0,0,0,0,0,0,0,FALSE
+"489","investors.evergy.com","Evergy",558,"Energy","EVRG",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","iqvia.com","IQVIA Holdings",269,"Health Care","IQV",0,0,1,8,77,149,234,276,266,326,FALSE
+"491","ir.doordash.com","DoorDash",621,"Technology","DASH",0,0,0,0,0,0,0,0,0,0,FALSE
+"492","ir.pennymacfinancial.com","PennyMac Financial Services",655,"Financials","PFSI",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","ir.yumchina.com","Yum China Holdings",359,"Hotels, Restaurants & Leisure","YUMC",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","irco.com","Ingersoll Rand",550,"Industrials","IR",30,30,38,40,55,60,92,182,199,166,FALSE
+"495","ironmountain.com","Iron Mountain",652,"Business Services","IRM",105,158,198,198,194,190,183,211,275,323,FALSE
+"496","itt.com","ITT",886,"Industrials","ITT",45,44,45,48,57,58,67,98,102,117,FALSE
+"497","itw.com","Illinois Tool Works",252,"Industrials","ITW",36,42,44,53,60,94,100,136,113,87,FALSE
+"498","jabil.com","Jabil",119,"Technology","JBL",74,97,71,106,135,181,162,205,218,239,FALSE
+"499","jackson.com","Jackson Financial",395,"Financials","JXN",14,17,18,31,38,67,101,67,95,107,FALSE
+"500","jacobs.com","Jacobs Engineering Group",262,"Engineering & Construction","J",20,52,68,82,101,130,212,334,280,340,FALSE
+"501","jbhunt.com","J.B. Hunt Transport Services",311,"Transportation","JBHT",48,53,63,70,88,124,183,235,216,215,FALSE
+"502","jefferies.com","Jefferies Financial Group",387,"Financials","JEF",31,35,41,43,37,84,90,136,147,188,FALSE
+"503","jeld-wen.com","JELD-WEN Holding",626,"Materials","JELD",48,55,62,90,106,158,209,249,291,278,FALSE
+"504","jetblue.com","JetBlue Airways",523,"Transportation","JBLU",87,137,156,191,200,257,294,296,227,242,FALSE
+"505","jll.com","Jones Lang LaSalle",185,"Financials","JLL",25,42,58,85,131,229,279,320,309,349,FALSE
+"506","jmsmucker.com","J.M. Smucker",426,"Food, Beverages & Tobacco","SJM",19,22,27,26,42,53,95,126,110,123,FALSE
+"507","jnj.com","Johnson & Johnson",37,"Health Care","JNJ",80,111,112,112,114,173,189,231,204,262,FALSE
+"508","joann.com","Joann",933,"Retailing","JOAN",38,35,39,34,44,35,35,217,244,250,FALSE
+"509","jpmorganchase.com","JPMorgan Chase",24,"Financials","JPM",24,46,43,51,77,96,102,135,121,142,FALSE
+"510","juniper.net","Juniper Networks",632,"Technology","JNPR",53,105,130,130,152,243,290,288,342,448,FALSE
+"511","kaiseraluminum.com","Kaiser Aluminum",906,"Materials","KALU",26,31,35,42,44,79,79,111,112,103,FALSE
+"512","karglobal.com","Kar Auction Services",969,"Wholesalers","KAR",7,14,14,15,15,12,61,106,121,140,FALSE
+"513","kbhome.com","KB Home",543,"Engineering & Construction","KBH",78,116,158,141,149,201,213,202,175,182,FALSE
+"514","kbr.com","KBR",460,"Engineering & Construction","KBR",30,34,44,42,53,74,96,133,176,200,FALSE
+"515","kelloggcompany.com","Kellogg",258,"Food, Beverages & Tobacco","K",55,54,52,59,56,106,94,106,101,124,FALSE
+"516","kellyservices.com","Kelly Services",618,"Business Services","KELYA",30,41,70,91,110,118,133,162,191,197,FALSE
+"517","kemper.com","Kemper",537,"Financials","KMPR",36,48,60,64,80,78,80,138,214,237,FALSE
+"518","keurigdrpepper.com","Keurig Dr Pepper",296,"Food, Beverages & Tobacco","KDP",0,0,0,0,0,65,97,129,116,148,FALSE
+"519","key.com","KeyCorp",449,"Financials","KEY",20,27,42,89,117,148,166,236,240,235,FALSE
+"520","keysight.com","Keysight Technologies",614,"Technology","KEYS",5,4,4,4,4,4,140,326,350,426,FALSE
+"521","khov.com","Hovnanian Enterprises",879,"Engineering & Construction","HOV",43,71,86,78,81,127,141,193,154,180,FALSE
+"522","kiewit.com","Peter Kiewit Sons'",313,"Engineering & Construction","",41,48,58,58,66,107,124,143,176,202,FALSE
+"523","kimberly-clark.com","Kimberly-Clark",182,"Household Products","KMB",25,37,37,40,50,82,90,105,134,186,FALSE
+"524","kindermorgan.com","Kinder Morgan",223,"Energy","KMI",22,43,47,51,51,59,75,83,87,116,FALSE
+"525","kirbycorp.com","Kirby",971,"Transportation","KEX",13,18,48,61,62,76,116,130,144,141,FALSE
+"526","kkr.com","KKR",138,"Financials","KKR",55,75,86,64,70,92,97,136,147,175,FALSE
+"527","kla.com","KLA",474,"Technology","KLAC",3,3,8,9,9,9,15,19,130,192,FALSE
+"528","knighttrans.com","Knight-Swift Transportation Holdings",527,"Transportation","KNX",26,32,38,40,48,52,59,80,50,84,FALSE
+"529","kofc.org","Knights of Columbus",925,"Financials","",19,22,32,38,34,73,93,106,93,119,FALSE
+"530","kohls.com","Kohl's",183,"Retailing","KSS",82,148,182,156,167,248,282,290,258,396,FALSE
+"531","kontoorbrands.com","Kontoor Brands",923,"Apparel","KTB",0,0,0,0,0,0,46,90,101,113,FALSE
+"532","kraftheinzcompany.com","Kraft Heinz",139,"Food, Beverages & Tobacco","KHC",0,0,35,48,46,72,90,126,128,138,FALSE
+"533","l3harris.com","L3Harris Technologies",206,"Aerospace & Defense","LHX",0,0,0,0,0,0,38,143,232,252,FALSE
+"534","labcorp.com","Laboratory Corp. of America",230,"Health Care","LH",14,17,19,55,73,128,167,233,224,350,FALSE
+"535","lambweston.com","Lamb Weston Holdings",730,"Food, Beverages & Tobacco","LW",24,37,48,39,86,105,135,184,176,173,FALSE
+"536","lamresearch.com","Lam Research",250,"Technology","LRCX",15,42,54,75,85,154,146,154,176,191,FALSE
+"537","landolakesinc.com","Land O'Lakes",232,"Food, Beverages & Tobacco","",45,44,39,39,50,79,109,161,174,200,FALSE
+"538","landstar.com","Landstar System",491,"Transportation","LSTR",7,8,57,73,84,120,140,137,139,144,FALSE
+"539","lci1.com","LCI Industries",653,"Motor Vehicles & Parts","LCII",50,63,90,98,95,123,146,175,210,213,FALSE
+"540","lear.com","Lear",186,"Motor Vehicles & Parts","LEA",43,40,64,67,90,116,113,131,161,165,FALSE
+"541","leggett.com","Leggett & Platt",598,"Household Products","LEG",18,22,24,28,39,68,81,89,108,117,FALSE
+"542","leidos.com","Leidos Holdings",274,"Technology","LDOS",34,49,45,83,107,187,188,231,223,252,FALSE
+"543","lennar.com","Lennar",131,"Engineering & Construction","LEN",94,152,151,202,247,293,245,280,308,280,FALSE
+"544","lennoxinternational.com","Lennox International",676,"Industrials","LII",7,23,23,25,30,32,42,38,35,46,FALSE
+"545","levistrauss.com","Levi Strauss",540,"Apparel","LEVI",24,61,69,67,73,121,109,104,118,129,FALSE
+"546","lfg.com","Lincoln National",187,"Financials","LNC",5,12,34,54,77,106,140,162,164,162,FALSE
+"547","lgihomes.com","LGI Homes",823,"Engineering & Construction","LGIH",38,33,28,41,55,92,98,157,141,131,FALSE
+"548","lhcgroup.com","LHC Group",977,"Health Care","LHCG",38,49,71,71,88,116,96,156,190,216,FALSE
+"549","libertyfrac.com","Liberty Energy",924,"Energy","LBRT",10,9,37,37,37,55,85,94,98,103,FALSE
+"550","libertymedia.com","Liberty Media",326,"Media","LSXMA",18,18,20,33,37,57,54,62,78,47,FALSE
+"551","libertymutual.com","Liberty Mutual Insurance Group",78,"Financials","",79,101,117,95,102,161,183,220,170,200,FALSE
+"552","lilly.com","Eli Lilly",122,"Health Care","LLY",36,49,69,84,87,152,173,213,199,275,FALSE
+"553","lincolnelectric.com","Lincoln Electric Holdings",793,"Industrials","LECO",49,62,69,99,146,216,266,285,333,325,FALSE
+"554","lithiainvestorrelations.com","Lithia Motors",158,"Retailing","LAD",10,11,13,13,13,33,23,34,36,37,FALSE
+"555","livenationentertainment.com","Live Nation Entertainment",508,"Media","LYV",20,29,37,45,47,101,93,95,94,99,FALSE
+"556","lkqcorp.com","LKQ",283,"Wholesalers","LKQ",22,24,58,74,82,91,141,137,154,178,FALSE
+"557","lnw.com","Light & Wonder",782,"Hotels, Restaurants & Leisure","LNW",0,3,2,1,3,3,3,7,6,181,FALSE
+"558","loandepot.com","loanDepot",700,"Financials","LDI",35,98,139,126,169,199,238,276,270,281,FALSE
+"559","lockheedmartin.com","Lockheed Martin",55,"Aerospace & Defense","LMT",20,70,109,105,110,125,109,142,174,231,FALSE
+"560","loews.com","Loews",246,"Financials","L",37,52,52,54,73,48,64,78,73,76,FALSE
+"561","lowes.com","Lowe's",35,"Retailing","LOW",97,111,130,161,148,182,202,225,292,321,FALSE
+"562","lpcorp.com","Louisiana-Pacific",645,"Materials","LPX",38,39,91,108,125,150,166,201,192,197,FALSE
+"563","lpl.com","LPL Financial Holdings",442,"Financials","LPLA",7,10,11,19,28,130,176,205,209,262,FALSE
+"564","lululemon.com","Lululemon athletica",509,"Retailing","LULU",109,120,150,162,115,165,195,213,237,218,FALSE
+"565","lumen.com","Lumen Technologies",179,"Telecommunications","LUMN",9,8,9,11,21,18,19,252,377,461,FALSE
+"566","lyft.com","Lyft",800,"Technology","LYFT",61,93,100,120,123,164,251,279,263,245,FALSE
+"567","macysinc.com","Macy's",144,"Retailing","M",27,28,34,37,44,72,92,67,84,95,FALSE
+"568","magellanlp.com","Magellan Midstream Partners",859,"Energy","MMP",22,21,21,33,26,25,26,29,30,45,FALSE
+"569","manpowergroup.com","ManpowerGroup",167,"Business Services","MAN",78,76,78,85,96,136,135,220,264,257,FALSE
+"570","mantech.com","ManTech International",915,"Technology","MANT",42,46,56,63,61,129,113,172,169,153,FALSE
+"571","marathonoil.com","Marathon Oil",569,"Energy","MRO",39,48,53,54,74,69,71,116,137,149,FALSE
+"572","marathonpetroleum.com","Marathon Petroleum",19,"Energy","MPC",28,53,80,68,71,98,86,89,107,98,FALSE
+"573","markel.com","Markel",289,"Financials","MKL",16,16,6,7,33,43,85,117,158,223,FALSE
+"574","marriott.com","Marriott International",270,"Hotels, Restaurants & Leisure","MAR",100,171,248,338,393,432,465,499,541,619,FALSE
+"575","marriottvacationsworldwide.com","Marriott Vacations Worldwide",705,"Hotels, Restaurants & Leisure","VAC",36,36,45,39,55,77,103,137,127,141,FALSE
+"576","marshmclennan.com","Marsh & McLennan",177,"Financials","MMC",0,0,0,0,0,0,0,3,98,138,FALSE
+"577","martinmarietta.com","Martin Marietta Materials",568,"Materials","MLM",20,55,51,56,61,75,77,121,97,100,FALSE
+"578","marvell.com","Marvell Technology",654,"Technology","MRVL",39,57,53,56,71,101,97,138,166,172,FALSE
+"579","masco.com","Masco",413,"Household Products","MAS",44,51,60,77,84,88,108,144,98,149,FALSE
+"580","massmutual.com","Massachusetts Mutual Life Insurance",100,"Financials","",38,57,78,102,136,185,185,235,259,305,FALSE
+"581","mastec.com","MasTec",429,"Engineering & Construction","MTZ",25,27,61,55,63,92,124,147,141,119,FALSE
+"582","mastercard.com","Mastercard",190,"Business Services","MA",67,106,131,178,199,227,233,267,276,342,FALSE
+"583","matson.com","Matson",703,"Transportation","MATX",26,32,36,43,81,103,124,147,147,158,FALSE
+"584","mattel.com","Mattel",570,"Household Products","MAT",66,115,135,160,153,211,223,254,340,435,FALSE
+"585","mattressfirm.com","Mattress Firm Group",659,"Retailing","",67,140,166,200,222,233,211,255,244,288,FALSE
+"586","maximintegrated.com","Maxim Integrated Products",903,"Technology","MXIM",25,57,77,74,100,116,112,140,133,110,FALSE
+"587","maximus.com","Maximus",667,"Technology","MMS",39,47,47,51,70,80,122,192,220,265,FALSE
+"588","mcafee.com","McAfee",896,"Technology","MCFE",47,78,80,112,137,216,227,269,302,427,FALSE
+"589","mccormickcorporation.com","McCormick",505,"Food, Beverages & Tobacco","MKC",27,26,29,35,48,50,42,80,46,50,FALSE
+"590","mckesson.com","McKesson",9,"Health Care","MCK",56,86,110,146,201,252,280,289,278,382,FALSE
+"591","mdcholdings.com","MDC Holdings",580,"Engineering & Construction","MDC",0,1,1,30,33,16,7,10,7,9,FALSE
+"592","mdu.com","MDU Resources Group",547,"Energy","MDU",13,26,25,24,27,56,37,70,72,125,FALSE
+"593","medmutual.com","Medical Mutual of Ohio",748,"Financials","",47,60,66,76,82,96,94,99,96,97,FALSE
+"594","merck.com","Merck",71,"Health Care","MRK",52,64,86,104,103,129,145,212,187,233,FALSE
+"595","mercuryinsurance.com","Mercury General",693,"Financials","MCY",42,69,100,113,114,151,169,182,178,222,FALSE
+"596","meritagehomes.com","Meritage Homes",588,"Engineering & Construction","MTH",64,85,108,112,169,161,137,155,142,148,FALSE
+"597","meritor.com","Meritor",710,"Motor Vehicles & Parts","",16,24,29,38,48,72,83,91,122,131,FALSE
+"598","metlife.com","MetLife",50,"Financials","MET",0,0,0,0,0,0,0,0,0,0,TRUE
+"599","mgmresorts.com","MGM Resorts International",364,"Hotels, Restaurants & Leisure","MGM",24,36,46,64,126,167,196,252,305,353,FALSE
+"600","microchip.com","Microchip Technology",571,"Technology","MCHP",30,38,36,72,76,122,160,220,250,264,FALSE
+"601","micron.com","Micron Technology",127,"Technology","MU",44,57,57,61,68,118,161,169,167,186,FALSE
+"602","microsoft.com","Microsoft",14,"Technology","MSFT",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","middleby.com","Middleby",788,"Industrials","MIDD",26,31,35,44,46,52,88,106,180,179,FALSE
+"604","mihomes.com","M/I Homes",722,"Engineering & Construction","MHO",36,85,85,89,111,128,139,170,168,163,FALSE
+"605","millerknoll.com","MillerKnoll",927,"Household Products","MLKN",0,0,0,0,0,0,0,0,58,142,FALSE
+"606","mksinst.com","MKS Instruments",843,"Technology","MKSI",22,37,34,45,50,72,80,77,92,85,FALSE
+"607","modernatx.com","Moderna",195,"Health Care","MRNA",37,43,45,51,66,74,82,90,151,245,FALSE
+"608","mohawkind.com","Mohawk Industries",330,"Household Products","MHK",20,30,38,55,54,77,111,136,147,172,FALSE
+"609","molinahealthcare.com","Molina Healthcare",125,"Health Care","MOH",20,39,40,50,72,91,105,197,200,222,FALSE
+"610","molsoncoors.com","Molson Coors Beverage",352,"Food, Beverages & Tobacco","TAP",55,53,60,66,56,73,74,142,145,189,FALSE
+"611","mondelezinternational.com","Mondelez International",121,"Food, Beverages & Tobacco","MDLZ",54,65,67,80,107,159,159,186,165,150,FALSE
+"612","monsterbevcorp.com","Monster Beverage",564,"Food, Beverages & Tobacco","MNST",28,28,22,28,30,30,54,57,68,60,FALSE
+"613","moodys.com","Moody's",512,"Business Services","MCO",32,41,54,69,82,108,132,175,239,282,FALSE
+"614","moog.com","Moog",862,"Aerospace & Defense","MOGA",27,45,42,58,79,115,130,148,188,192,FALSE
+"615","morganstanley.com","Morgan Stanley",61,"Financials","MS",21,36,48,93,129,178,206,220,222,264,FALSE
+"616","mosaicco.com","Mosaic",305,"Chemicals","MOS",39,44,51,50,71,94,87,139,182,188,FALSE
+"617","motorolasolutions.com","Motorola Solutions",423,"Technology","MSI",51,97,119,108,160,226,264,296,301,416,FALSE
+"618","mrcglobal.com","MRC Global",901,"Energy","MRC",33,46,48,62,80,85,88,113,104,152,FALSE
+"619","mrcoopergroup.com","Mr. Cooper Group",777,"Financials","COOP",0,0,0,0,0,11,32,69,61,77,FALSE
+"620","mscdirect.com","MSC Industrial Direct",790,"Wholesalers","MSM",38,59,72,93,108,121,152,173,204,183,FALSE
+"621","mt.com","Mettler-Toledo International",724,"Technology","MTD",11,16,17,69,117,152,184,346,384,383,FALSE
+"622","mtb.com","M&T Bank",519,"Financials","MTB",41,51,79,119,113,164,221,285,269,306,FALSE
+"623","mtch.com","Match Group",836,"Technology","MTCH",8,10,16,28,36,53,57,89,110,86,FALSE
+"624","muellerindustries.com","Mueller Industries",718,"Industrials","MLI",3,6,5,5,6,6,33,35,49,67,FALSE
+"625","murphyoilcorp.com","Murphy Oil",958,"Energy","MUR",27,37,32,36,39,47,61,115,120,124,FALSE
+"626","murphyusa.com","Murphy USA",240,"Retailing","MUSA",73,67,71,97,106,122,126,150,164,128,FALSE
+"627","mutualofamerica.com","Mutual of America Life Insurance",878,"Financials","",6,22,21,31,37,38,42,97,138,210,FALSE
+"628","mutualofomaha.com","Mutual of Omaha Insurance",324,"Financials","",39,65,77,99,117,127,230,209,231,251,FALSE
+"629","myrgroup.com","MYR Group",922,"Engineering & Construction","MYRG",41,38,45,44,58,73,76,98,150,157,FALSE
+"630","myyellow.com","Yellow",591,"Transportation","YELL",2,2,2,3,37,39,19,20,122,137,FALSE
+"631","nasdaq.com","Nasdaq",532,"Financials","NDAQ",80,160,175,216,267,269,324,351,309,350,FALSE
+"632","nationallife.com","NLV Financial",775,"Financials","",13,18,65,73,86,117,132,180,222,199,FALSE
+"633","nationwide.com","Nationwide",80,"Financials","",79,108,110,140,155,219,224,304,274,334,FALSE
+"634","navient.com","Navient",761,"Financials","NAVI",1,42,62,61,64,94,101,119,124,154,FALSE
+"635","ncr.com","NCR",466,"Technology","NCR",32,51,87,94,111,163,196,249,291,313,FALSE
+"636","netapp.com","NetApp",542,"Technology","NTAP",48,86,93,132,213,293,293,364,353,452,FALSE
+"637","netflix.com","Netflix",115,"Media","NFLX",28,74,100,106,120,168,197,228,245,263,FALSE
+"638","newellbrands.com","Newell Brands",348,"Household Products","NWL",0,0,7,54,78,121,164,189,183,232,FALSE
+"639","newmarket.com","NewMarket",947,"Chemicals","NEU",13,14,19,18,20,20,29,59,61,64,FALSE
+"640","newmont.com","Newmont",308,"Energy","NEM",38,74,102,100,103,114,156,152,149,154,FALSE
+"641","newscorp.com","News Corp.",374,"Media","NWSA",58,60,67,66,80,96,101,130,140,158,FALSE
+"642","newyorklife.com","New York Life Insurance",72,"Financials","",61,74,92,116,140,165,192,210,216,235,FALSE
+"643","nexstar.tv","Nexstar Media Group",637,"Media","NXST",18,47,42,80,93,117,124,160,173,185,FALSE
+"644","nexteraenergy.com","NextEra Energy",215,"Energy","NEE",20,31,49,73,95,104,114,139,153,151,FALSE
+"645","nglenergypartners.com","NGL Energy Partners",581,"Energy","NGL",25,27,35,30,29,44,33,51,65,99,FALSE
+"646","nike.com","Nike",83,"Apparel","NKE",43,66,59,74,91,257,312,418,387,506,FALSE
+"647","nisource.com","NiSource",619,"Energy","NI",24,26,32,38,44,51,65,95,102,109,FALSE
+"648","njresources.com","New Jersey Resources",989,"Energy","NJR",22,26,38,44,52,75,77,98,86,93,FALSE
+"649","nmrk.com","Newmark Group",854,"Financials","NMRK",0,0,0,0,0,0,0,65,119,158,FALSE
+"650","nordson.com","Nordson",946,"Industrials","NDSN",24,26,73,73,105,119,123,155,137,194,FALSE
+"651","nordstrom.com","Nordstrom",245,"Retailing","JWN",59,80,82,94,123,151,157,179,183,219,FALSE
+"652","norfolksouthern.com","Norfolk Southern",332,"Transportation","NSC",0,0,0,3,36,47,37,44,47,47,FALSE
+"653","northerntrust.com","Northern Trust",493,"Financials","NTRS",39,75,95,129,149,169,163,213,244,273,FALSE
+"654","northropgrumman.com","Northrop Grumman",101,"Aerospace & Defense","NOC",33,49,62,71,94,138,146,246,220,178,FALSE
+"655","northwesternmutual.com","Northwestern Mutual",97,"Financials","",28,91,81,103,108,157,162,197,239,300,FALSE
+"656","nortonlifelock.com","NortonLifeLock",917,"Technology","NLOK",0,0,0,0,0,0,71,119,209,250,FALSE
+"657","nov.com","NOV",566,"Energy","NOV",37,67,79,97,101,125,153,200,233,249,FALSE
+"658","nrg.com","NRG Energy",133,"Energy","NRG",1,55,145,134,144,165,105,171,195,241,FALSE
+"659","nucor.com","Nucor",98,"Materials","NUE",23,30,36,35,39,63,86,98,100,140,FALSE
+"660","nuskin.com","Nu Skin Enterprises",897,"Household Products","NUS",19,45,71,107,126,185,248,307,297,331,FALSE
+"661","nvidia.com","Nvidia",134,"Technology","NVDA",86,117,137,180,253,302,343,459,499,569,FALSE
+"662","nvrinc.com","NVR",389,"Engineering & Construction","NVR",21,22,28,27,36,68,75,95,93,93,FALSE
+"663","o-i.com","O-I Glass",501,"Materials","OI",22,27,26,28,30,53,90,113,149,199,FALSE
+"664","odfl.com","Old Dominion Freight Line",578,"Transportation","ODFL",16,27,53,51,55,84,108,138,133,176,FALSE
+"665","officedepot.com","ODP",379,"Retailing","ODP",70,93,153,198,179,279,299,372,360,349,FALSE
+"666","ogeenergy.com","OGE Energy",735,"Energy","OGE",0,0,0,0,0,37,43,43,56,38,FALSE
+"667","ohionational.com","Ohio National Mutual",948,"Financials","",11,16,18,18,19,48,67,105,106,110,FALSE
+"668","oldrepublic.com","Old Republic International",376,"Financials","ORI",12,16,17,17,19,22,37,66,54,62,FALSE
+"669","olin.com","Olin",393,"Chemicals","OLN",6,16,16,16,16,59,63,79,81,96,FALSE
+"670","olysteel.com","Olympic Steel",955,"Materials","ZEUS",42,34,32,28,57,61,72,76,91,110,FALSE
+"671","omf.com","OneMain Holdings",620,"Financials","OMF",20,16,12,12,32,36,15,26,43,41,FALSE
+"672","omnicomgroup.com","Omnicom Group",255,"Business Services","OMC",17,19,40,42,61,68,87,162,195,208,FALSE
+"673","oneok.com","Oneok",224,"Energy","OKE",26,34,32,44,40,49,98,128,129,132,FALSE
+"674","onepeloton.com","Peloton Interactive",689,"Hotels, Restaurants & Leisure","PTON",0,0,0,0,156,212,280,351,353,417,FALSE
+"675","onsemi.com","ON Semiconductor",483,"Technology","ON",38,44,54,52,83,100,142,171,188,209,FALSE
+"676","opendoor.com","Opendoor Technologies",425,"Technology","OPEN",11,50,84,87,113,162,236,248,248,214,FALSE
+"677","optioncarehealth.com","Option Care Health",763,"Health Care","OPCH",0,0,0,0,0,0,32,93,111,100,FALSE
+"678","oracle.com","Oracle",91,"Technology","ORCL",0,0,0,0,0,0,0,0,0,0,TRUE
+"679","oreillyauto.com","O'Reilly Automotive",279,"Retailing","ORLY",36,51,61,60,120,125,142,155,169,191,FALSE
+"680","oshkoshcorp.com","Oshkosh",428,"Industrials","OSK",19,16,41,53,44,50,79,96,102,98,FALSE
+"681","otis.com","Otis Worldwide",254,"Industrials","OTIS",16,19,27,35,47,80,112,197,273,372,FALSE
+"682","overstock.com","Overstock.com",883,"Retailing","OSTK",64,171,175,141,148,198,152,169,209,198,FALSE
+"683","ovintiv.com","Ovintiv",400,"Energy","OVV",0,0,0,0,0,0,0,79,90,104,FALSE
+"684","owens-minor.com","Owens & Minor",361,"Health Care","OMI",21,23,32,34,55,98,114,146,177,159,FALSE
+"685","owenscorning.com","Owens Corning",408,"Materials","OC",89,103,121,147,169,238,286,361,358,331,FALSE
+"686","oxy.com","Occidental Petroleum",135,"Energy","OXY",23,40,32,32,35,47,67,87,110,132,FALSE
+"687","paccar.com","Paccar",151,"Motor Vehicles & Parts","PCAR",13,39,35,36,38,55,59,91,101,108,FALSE
+"688","pacificlife.com","Pacific Life",266,"Financials","",17,23,35,32,39,98,149,195,179,224,FALSE
+"689","packagingcorp.com","Packaging Corp. of America",441,"Materials","PKG",18,26,45,50,48,66,74,116,141,186,FALSE
+"690","paloaltonetworks.com","Palo Alto Networks",666,"Technology","PANW",83,102,129,168,219,258,319,380,405,451,FALSE
+"691","paramount.com","Paramount Global",116,"Media","PARA",55,63,58,61,61,89,118,141,182,306,FALSE
+"692","parker.com","Parker-Hannifin",253,"Industrials","PH",29,51,53,111,153,126,157,240,249,246,FALSE
+"693","parpacific.com","Par Pacific Holdings",634,"Energy","PARR",0,0,17,19,26,27,39,58,92,92,FALSE
+"694","parsons.com","Parsons",733,"Aerospace & Defense","PSN",20,24,26,30,70,87,108,205,225,268,FALSE
+"695","partycity.com","Party City Holdco",986,"Retailing","PRTY",59,92,89,96,122,215,245,298,223,227,FALSE
+"696","patrickind.com","Patrick Industries",685,"Materials","PATK",22,24,22,21,69,65,64,71,113,125,FALSE
+"697","pattersoncompanies.com","Patterson",529,"Health Care","PDCO",39,44,50,40,34,64,69,99,104,104,FALSE
+"698","paychex.com","Paychex",686,"Business Services","PAYX",62,123,162,180,209,245,199,249,228,291,FALSE
+"699","paypal.com","PayPal",143,"Business Services","PYPL",35,70,76,91,124,156,164,280,299,304,FALSE
+"700","pbfenergy.com","PBF Energy",130,"Energy","PBF",25,49,42,47,46,67,71,100,91,112,FALSE
+"701","peabodyenergy.com","Peabody Energy",781,"Energy","BTU",26,29,47,39,51,36,58,76,87,101,FALSE
+"702","pennentertainment.com","PENN Entertainment",530,"Hotels, Restaurants & Leisure","PENN",0,0,0,0,0,0,2,10,8,101,FALSE
+"703","pennmutual.com","Penn Mutual Life Insurance",647,"Financials","",5,8,34,42,34,72,121,166,180,167,FALSE
+"704","penskeautomotive.com","Penske Automotive Group",142,"Retailing","PAG",31,33,51,44,63,77,67,98,85,87,FALSE
+"705","pepsico.com","PepsiCo",45,"Food, Beverages & Tobacco","PEP",75,64,102,115,124,159,205,201,201,263,FALSE
+"706","perkinelmer.com","PerkinElmer",600,"Health Care","PKI",55,102,128,134,144,198,216,288,338,351,FALSE
+"707","petco.com","Petco Health and Wellness",536,"Retailing","WOOF",123,165,186,193,187,245,256,273,295,379,FALSE
+"708","pfgc.com","Performance Food Group",112,"Wholesalers","PFGC",13,14,45,50,53,86,81,94,101,127,FALSE
+"709","pfizer.com","Pfizer",43,"Health Care","PFE",78,95,102,103,122,174,203,253,252,349,FALSE
+"710","pg.com","Procter & Gamble",47,"Household Products","PG",1,1,1,79,100,149,159,221,194,254,FALSE
+"711","pgecorp.com","PG&E",168,"Energy","PCG",21,18,22,36,26,94,55,86,60,67,FALSE
+"712","phillips66.com","Phillips 66",29,"Energy","PSX",21,32,37,35,55,66,88,143,137,154,FALSE
+"713","pinnaclewest.com","Pinnacle West Capital",716,"Energy","PNW",11,11,26,29,34,53,53,64,64,60,FALSE
+"714","pitneybowes.com","Pitney Bowes",729,"Technology","PBI",85,92,134,155,216,301,324,397,350,384,FALSE
+"715","plains.com","Plains GP Holdings",88,"Energy","PAGP",0,2,2,3,5,3,3,5,15,26,FALSE
+"716","playtika.com","Playtika Holding",912,"Media","PLTK",23,67,67,67,65,71,95,115,150,137,FALSE
+"717","plexus.com","Plexus",772,"Technology","PLXS",25,30,32,35,58,47,78,100,102,94,FALSE
+"718","pmi.com","Philip Morris International",110,"Food, Beverages & Tobacco","PM",24,51,55,56,68,75,113,131,172,181,FALSE
+"719","pnc.com","PNC Financial Services Group",178,"Financials","PNC",18,56,76,94,123,146,183,204,188,233,FALSE
+"720","polaris.com","Polaris",419,"Transportation","PII",41,95,102,134,175,236,258,298,331,302,FALSE
+"721","poolcorp.com","Pool",577,"Wholesalers","POOL",30,31,35,52,68,79,115,151,141,176,FALSE
+"722","popular.com","Popular",888,"Financials","BPOP",40,68,98,121,134,181,185,214,231,238,FALSE
+"723","portlandgeneral.com","Portland General Electric",942,"Energy","POR",18,19,31,46,51,84,84,107,108,121,FALSE
+"724","postholdings.com","Post Holdings",511,"Food, Beverages & Tobacco","POST",26,26,37,39,53,57,66,80,103,117,FALSE
+"725","ppg.com","PPG Industries",218,"Chemicals","PPG",43,69,103,131,140,169,221,244,228,313,FALSE
+"726","pplweb.com","PPL",469,"Energy","PPL",18,48,52,61,81,83,84,119,120,125,FALSE
+"727","pricesmart.com","PriceSmart",739,"Retailing","PSMT",16,37,35,41,44,45,110,123,127,125,FALSE
+"728","primerica.com","Primerica",895,"Financials","PRI",34,38,40,47,59,68,82,131,160,197,FALSE
+"729","primoriscorp.com","Primoris Services",752,"Engineering & Construction","PRIM",7,7,31,30,47,70,67,82,77,79,FALSE
+"730","principal.com","Principal Financial",256,"Financials","PFG",19,20,63,72,95,129,210,258,252,285,FALSE
+"731","progleasing.com","PROG Holdings",899,"Financials","PRG",0,13,25,79,85,105,148,171,219,230,FALSE
+"732","progressive.com","Progressive",79,"Financials","PGR",57,82,90,86,131,159,150,182,164,201,FALSE
+"733","prologis.com","Prologis",629,"Financials","PLD",27,44,63,55,103,114,115,186,215,230,FALSE
+"734","prudential.com","Prudential Financial",51,"Financials","PRU",29,33,24,78,129,190,223,247,277,312,FALSE
+"735","pseg.com","Public Service Enterprise Group",362,"Energy","PEG",14,31,33,52,65,112,143,189,237,308,FALSE
+"736","publicstorage.com","Public Storage",765,"Financials","PSA",70,119,139,158,190,187,198,178,172,155,FALSE
+"737","publix.com","Publix Super Markets",76,"Food & Drug Stores","",57,77,78,93,137,204,266,276,287,316,FALSE
+"738","pugetenergy.com","Puget Energy",714,"Energy","",8,9,9,11,8,13,10,15,15,29,FALSE
+"739","pultegroupinc.com","PulteGroup",267,"Engineering & Construction","PHM",22,22,52,58,60,49,29,38,37,40,FALSE
+"740","purestorage.com","Pure Storage",984,"Technology","PSTG",60,91,137,151,174,242,276,349,319,350,FALSE
+"741","pvh.com","PVH",385,"Apparel","PVH",21,22,36,40,58,114,145,201,231,288,FALSE
+"742","pxd.com","Pioneer Natural Resources",248,"Energy","PXD",33,38,39,40,41,50,84,97,113,115,FALSE
+"743","qorvo.com","Qorvo",691,"Technology","QRVO",0,3,37,84,96,97,114,154,183,197,FALSE
+"744","quad.com","Quad/Graphics",842,"Media","QUAD",5,5,6,6,6,8,94,162,157,229,FALSE
+"745","qualcomm.com","Qualcomm",107,"Technology","QCOM",89,106,119,109,132,196,209,242,253,310,FALSE
+"746","quantaservices.com","Quanta Services",285,"Engineering & Construction","PWR",20,43,51,54,63,72,106,119,130,142,FALSE
+"747","questdiagnostics.com","Quest Diagnostics",342,"Health Care","DGX",67,84,106,152,171,232,268,305,303,321,FALSE
+"748","qurateretail.com","Qurate Retail",265,"Retailing","QRTEA",0,0,0,0,0,83,59,64,88,52,FALSE
+"749","rackspace.com","Rackspace Technology",828,"Technology","RXT",107,172,201,218,195,260,253,304,304,318,FALSE
+"750","ralphlauren.com","Ralph Lauren",658,"Apparel","RL",74,97,117,158,222,250,263,342,354,317,FALSE
+"751","rangeresources.com","Range Resources",846,"Energy","RRC",27,38,55,72,67,57,72,123,112,117,FALSE
+"752","raymondjames.com","Raymond James Financial",356,"Financials","RJF",44,63,88,198,231,278,239,236,233,236,FALSE
+"753","realogy.com","Anywhere Real Estate",427,"Financials","HOUS",31,36,32,34,71,109,106,175,211,235,FALSE
+"754","regalrexnord.com","Regal Rexnord",713,"Industrials","RRX",0,0,0,0,0,0,0,0,60,148,FALSE
+"755","regeneron.com","Regeneron Pharmaceuticals",231,"Health Care","REGN",53,58,73,97,77,130,139,216,248,264,FALSE
+"756","regi.com","Renewable Energy Group",789,"Energy","",21,35,56,50,53,76,121,106,140,172,FALSE
+"757","regions.com","Regions Financial",489,"Financials","RF",50,82,103,105,114,141,186,243,278,315,FALSE
+"758","rentacenter.com","Rent-A-Center",642,"Retailing","RCII",47,72,118,143,137,176,191,236,226,237,FALSE
+"759","republicservices.com","Republic Services",329,"Business Services","RSG",26,67,94,115,103,157,158,172,159,153,FALSE
+"760","resideo.com","Resideo Technologies",534,"Materials","REZI",7,6,6,23,24,92,166,259,294,313,FALSE
+"761","resmed.com","ResMed",802,"Health Care","RMD",39,82,92,128,160,231,280,341,369,444,FALSE
+"762","resolutefp.com","Resolute Forest Products",732,"Materials","RFP",14,57,65,70,81,83,89,116,125,123,FALSE
+"763","revgroup.com","REV Group",943,"Motor Vehicles & Parts","REVG",8,9,35,53,108,136,152,184,197,174,FALSE
+"764","rgare.com","Reinsurance Group of America",222,"Financials","RGA",19,28,35,47,51,63,82,119,131,140,FALSE
+"765","rh.com","RH",720,"Retailing","RH",1,1,1,6,43,39,55,115,135,138,FALSE
+"766","riteaid.com","Rite Aid",148,"Food & Drug Stores","RAD",7,27,26,32,29,36,36,286,299,294,FALSE
+"767","rithmcap.com","Rithm Capital",747,"Financials","RITM",0,0,0,0,0,0,0,0,0,34,FALSE
+"768","roberthalf.com","Robert Half International",494,"Business Services","RHI",53,86,128,150,166,173,164,188,216,258,FALSE
+"769","rocketcompanies.com","Rocket Companies",282,"Financials","RKT",0,34,36,39,80,60,56,98,89,107,FALSE
+"770","rockwellautomation.com","Rockwell Automation",472,"Industrials","ROK",22,59,104,133,162,212,220,287,323,389,FALSE
+"771","roku.com","Roku",889,"Media","ROKU",46,95,95,92,98,116,141,184,176,273,FALSE
+"772","rollins.com","Rollins",930,"Business Services","ROL",9,14,15,39,41,75,95,113,128,150,FALSE
+"773","ropertech.com","Roper Technologies",497,"Technology","ROP",10,3,24,32,33,33,39,42,65,119,FALSE
+"774","rossstores.com","Ross Stores",189,"Retailing","ROST",26,40,76,106,88,109,120,141,162,148,FALSE
+"775","rpminc.com","RPM International",518,"Chemicals","RPM",18,26,46,46,38,41,93,165,151,158,FALSE
+"776","rrd.com","R.R. Donnelley & Sons",613,"Media","RRD",34,40,51,80,79,125,173,208,207,276,FALSE
+"777","rsac.com","Reliance Steel & Aluminum",261,"Materials","RS",12,51,42,43,52,63,80,133,113,128,FALSE
+"778","rtx.com","Raytheon Technologies",58,"Aerospace & Defense","RTX",16,17,17,16,15,16,8,151,162,179,FALSE
+"779","rushenterprises.com","Rush Enterprises",590,"Retailing","RUSHB",18,20,22,25,27,71,73,102,112,136,FALSE
+"780","ryder.com","Ryder System",365,"Transportation","R",48,65,84,134,160,208,211,273,280,279,FALSE
+"781","ryerson.com","Ryerson Holding",549,"Materials","RYI",25,33,36,66,74,106,131,134,154,156,FALSE
+"782","saia.com","Saia",961,"Transportation","SAIA",18,20,34,45,55,76,107,112,99,85,FALSE
+"783","saic.com","Science Applications International",456,"Technology","SAIC",90,104,93,102,99,134,144,172,197,251,FALSE
+"784","salesforce.com","Salesforce",136,"Technology","CRM",41,44,119,225,264,290,321,374,374,338,FALSE
+"785","salliemae.com","SLM",938,"Financials","SLM",44,59,56,70,73,123,162,198,218,240,FALSE
+"786","sallybeautyholdings.com","Sally Beauty Holdings",707,"Retailing","SBH",24,28,43,65,72,67,86,101,94,100,FALSE
+"787","sandersonfarms.com","Sanderson Farms",623,"Food, Beverages & Tobacco","",43,63,72,67,97,107,91,122,129,110,FALSE
+"788","sands.com","Las Vegas Sands",567,"Hotels, Restaurants & Leisure","LVS",33,44,48,50,56,84,91,123,152,121,FALSE
+"789","sanmina.com","Sanmina",482,"Technology","SANM",37,65,66,48,88,116,151,170,218,225,FALSE
+"790","sbasite.com","SBA Communications",957,"Financials","SBAC",21,31,36,47,61,91,81,101,172,201,FALSE
+"791","sbgi.net","Sinclair Broadcast Group",517,"Media","SBGI",15,18,39,33,40,48,57,63,64,80,FALSE
+"792","scansource.com","ScanSource",773,"Wholesalers","SCSC",72,67,72,87,92,98,132,178,192,203,FALSE
+"793","schneider.com","Schneider National",555,"Transportation","SNDR",15,21,27,45,77,112,120,170,161,183,FALSE
+"794","schnitzersteel.com","Schnitzer Steel Industries",890,"Materials","SCHN",17,27,31,33,47,50,58,61,67,59,FALSE
+"795","sci-corp.com","Service Corp. International",677,"Business Services","SCI",11,24,30,28,42,53,98,121,116,124,FALSE
+"796","scotts.com","Scotts Miracle-Gro",616,"Chemicals","SMG",61,69,81,107,134,157,171,207,220,236,FALSE
+"797","scripps.com","E.W. Scripps",962,"Media","SSP",40,50,57,41,44,68,110,137,151,174,FALSE
+"798","seaboardcorp.com","Seaboard",382,"Food, Beverages & Tobacco","SEB",22,35,55,52,51,63,74,99,103,100,FALSE
+"799","sealedair.com","Sealed Air",565,"Materials","SEE",25,50,66,98,132,163,192,245,251,275,FALSE
+"800","securian.com","Securian Financial Group",464,"Financials","",12,15,17,60,122,140,100,160,152,186,FALSE
+"801","selective.com","Selective Insurance Group",769,"Financials","SIGI",15,16,32,43,90,125,155,183,173,175,FALSE
+"802","selectmedicalholdings.com","Select Medical Holdings",513,"Health Care","SEM",32,25,26,27,29,25,3,4,5,4,FALSE
+"803","sempra.com","Sempra",288,"Energy","SRE",25,29,46,51,76,87,105,161,169,198,FALSE
+"804","sentry.com","Sentry Insurance Group",650,"Financials","",22,33,44,62,77,101,102,101,117,128,FALSE
+"805","servicenow.com","ServiceNow",531,"Technology","NOW",41,92,92,130,160,206,254,301,310,400,FALSE
+"806","sherwin-williams.com","Sherwin-Williams",175,"Chemicals","SHW",54,92,121,154,146,198,214,309,353,368,FALSE
+"807","signatureny.com","Signature Bank",956,"Financials","SBNY",15,34,41,46,56,55,58,77,64,80,FALSE
+"808","silganholdings.com","Silgan Holdings",548,"Materials","SLGN",6,6,6,9,7,7,9,8,8,44,FALSE
+"809","simon.com","Simon Property Group",593,"Financials","SPG",80,110,146,162,176,199,240,292,312,322,FALSE
+"810","siteone.com","SiteOne Landscape Supply",756,"Wholesalers","SITE",5,5,30,51,62,94,93,155,175,165,FALSE
+"811","skechers.com","Skechers U.S.A.",506,"Apparel","SKX",27,37,65,99,116,184,229,281,257,271,FALSE
+"812","skywest.com","SkyWest",894,"Transportation","SKYW",22,35,59,54,54,78,101,132,150,139,FALSE
+"813","skyworksinc.com","Skyworks Solutions",595,"Technology","SWKS",21,33,48,51,56,81,109,138,155,161,FALSE
+"814","sleepnumber.com","Sleep Number",982,"Retailing","SNBR",74,126,134,154,179,245,254,287,271,263,FALSE
+"815","sm-energy.com","SM Energy",905,"Energy","SM",23,48,46,61,112,94,94,102,108,93,FALSE
+"816","snap.com","Snap",683,"Technology","SNAP",36,44,17,35,47,56,58,83,119,157,FALSE
+"817","snapon.com","Snap-on",641,"Industrials","SNA",28,35,49,65,77,107,146,204,228,245,FALSE
+"818","sonicautomotive.com","Sonic Automotive",300,"Retailing","SAH",33,48,67,85,88,102,121,179,166,166,FALSE
+"819","sonoco.com","Sonoco Products",556,"Materials","SON",40,94,121,114,133,155,139,161,195,258,FALSE
+"820","southerncompany.com","Southern",153,"Energy","SO",49,64,72,89,103,121,119,161,174,156,FALSE
+"821","southwest.com","Southwest Airlines",234,"Transportation","LUV",45,55,63,75,82,112,151,205,201,251,FALSE
+"822","spartannash.com","SpartanNash",392,"Wholesalers","SPTN",25,25,39,42,53,74,114,151,181,201,FALSE
+"823","spectrumbrands.com","Spectrum Brands Holdings",830,"Household Products","SPB",29,33,36,43,44,64,110,141,175,170,FALSE
+"824","spglobal.com","S&P Global",417,"Business Services","SPGI",0,0,0,82,116,199,281,353,362,431,FALSE
+"825","spireenergy.com","Spire",974,"Energy","SR",0,0,0,26,71,108,116,147,164,169,FALSE
+"826","spirit.com","Spirit Airlines",795,"Transportation","SAVE",22,48,88,118,141,220,226,252,265,257,FALSE
+"827","spiritaero.com","Spirit AeroSystems Holdings",698,"Aerospace & Defense","SPR",20,19,72,64,74,121,97,169,125,137,FALSE
+"828","splunk.com","Splunk",900,"Technology","SPLK",53,74,94,94,161,232,264,337,350,382,FALSE
+"829","spragueenergy.com","Sprague Resources",751,"Energy","SRLP",19,26,31,36,37,63,50,59,71,74,FALSE
+"830","sprouts.com","Sprouts Farmers Market",520,"Food & Drug Stores","SFM",52,97,90,123,126,173,191,240,239,231,FALSE
+"831","ssctech.com","SS&C Technologies Holdings",601,"Technology","SSNC",31,41,86,97,100,77,120,167,163,167,FALSE
+"832","stanleyblackanddecker.com","Stanley Black & Decker",212,"Household Products","SWK",70,55,76,79,112,143,180,194,211,254,FALSE
+"833","starbucks.com","Starbucks",120,"Hotels, Restaurants & Leisure","SBUX",108,152,163,179,200,278,279,298,288,361,FALSE
+"834","statefarm.com","State Farm Insurance",42,"Financials","",80,94,93,135,166,181,189,250,232,257,FALSE
+"835","statestreet.com","State Street",316,"Financials","STT",10,14,55,59,71,87,97,152,145,202,FALSE
+"836","steelcase.com","Steelcase",909,"Household Products","SCS",56,66,148,166,192,250,257,311,338,413,FALSE
+"837","steeldynamics.com","Steel Dynamics",196,"Materials","STLD",33,40,50,37,43,51,68,79,96,125,FALSE
+"838","stepan.com","Stepan",949,"Chemicals","SCL",23,25,32,40,45,59,91,140,106,110,FALSE
+"839","stericycle.com","Stericycle",902,"Business Services","SRCL",48,61,96,103,128,181,179,191,198,185,FALSE
+"840","stewart.com","Stewart Information Services",784,"Financials","STC",41,59,57,60,70,116,119,136,144,177,FALSE
+"841","stifel.com","Stifel Financial",625,"Financials","SF",16,25,38,41,42,63,68,101,125,156,FALSE
+"842","stock.walmart.com","Walmart",1,"Retailing","WMT",0,0,0,0,0,0,0,0,0,0,FALSE
+"843","stonex.com","StoneX Group",87,"Financials","SNEX",4,4,4,2,2,1,1,184,266,335,FALSE
+"844","stryker.com","Stryker",214,"Health Care","SYK",55,71,78,96,183,242,286,379,404,525,FALSE
+"845","summit-materials.com","Summit Materials",937,"Materials","SUM",29,50,59,49,49,71,80,103,89,93,FALSE
+"846","suncommunities.com","Sun Communities",964,"Financials","SUI",26,38,53,102,133,153,165,180,219,226,FALSE
+"847","supermicro.com","Super Micro Computer",743,"Technology","SMCI",33,43,59,70,75,108,133,188,172,165,FALSE
+"848","surgerypartners.com","Surgery Partners",976,"Health Care","SGRY",19,29,39,33,48,73,72,88,105,100,FALSE
+"849","svb.com","SVB Financial Group",524,"Financials","SIVB",69,81,83,104,93,138,165,263,278,291,FALSE
+"850","swgasholdings.com","Southwest Gas Holdings",728,"Energy","SWX",0,0,0,2,50,56,78,80,79,72,FALSE
+"851","swn.com","Southwestern Energy",486,"Energy","SWN",17,22,21,18,21,35,36,108,114,112,FALSE
+"852","synchronyfinancial.com","Synchrony Financial",236,"Financials","SYF",0,46,63,64,88,116,107,116,115,131,FALSE
+"853","syneoshealth.com","Syneos Health",584,"Health Care","SYNH",0,0,0,0,6,109,119,176,214,274,FALSE
+"854","synopsys.com","Synopsys",674,"Technology","SNPS",26,45,80,114,125,160,184,256,309,361,FALSE
+"855","sysco.com","Sysco",70,"Wholesalers","SYY",33,44,86,99,107,147,182,233,249,304,FALSE
+"856","ta-petro.com","TravelCenters of America",461,"Retailing","TA",19,40,34,36,72,125,118,133,148,153,FALSE
+"857","take2games.com","Take-Two Interactive Software",770,"Media","TTWO",22,28,26,25,26,57,73,127,146,159,FALSE
+"858","tapestry.com","Tapestry",541,"Apparel","TPR",1,1,1,1,40,75,107,148,136,146,FALSE
+"859","targaresources.com","Targa Resources",216,"Energy","TRGP",17,13,13,14,19,31,57,80,70,59,FALSE
+"860","target.com","Target",32,"Retailing","TGT",62,109,133,137,153,226,247,289,295,301,FALSE
+"861","taylormorrison.com","Taylor Morrison Home",453,"Engineering & Construction","TMHC",69,83,109,160,203,250,271,233,252,246,FALSE
+"862","tdsinc.com","Telephone & Data Systems",573,"Telecommunications","TDS",0,13,26,51,57,48,55,64,67,74,FALSE
+"863","tdsynnex.com","TD Synnex",109,"Wholesalers","SNX",0,0,0,0,0,0,0,0,31,365,FALSE
+"864","tegna.com","TEGNA",832,"Media","TGNA",16,11,56,58,62,61,78,94,137,158,FALSE
+"865","teledyne.com","Teledyne Technologies",640,"Aerospace & Defense","TDY",19,22,28,28,32,54,48,73,74,93,FALSE
+"866","teleflex.com","Teleflex",873,"Health Care","TFX",28,29,24,39,66,84,108,134,157,212,FALSE
+"867","tempursealy.com","Tempur Sealy International",615,"Household Products","TPX",27,46,42,51,51,80,90,98,109,127,FALSE
+"868","tenethealth.com","Tenet Healthcare",181,"Health Care","THC",26,52,61,71,108,131,139,152,148,128,FALSE
+"869","tenneco.com","Tenneco",202,"Motor Vehicles & Parts","TEN",23,22,22,48,55,75,108,138,139,139,FALSE
+"870","teradyne.com","Teradyne",726,"Technology","TER",24,59,51,58,72,115,117,179,169,175,FALSE
+"871","terex.com","Terex",706,"Industrials","TEX",41,58,55,73,78,169,172,200,194,256,FALSE
+"872","tesla.com","Tesla",65,"Motor Vehicles & Parts","TSLA",13,20,23,110,133,157,195,242,271,284,FALSE
+"873","tetratech.com","Tetra Tech",799,"Engineering & Construction","TTEK",28,39,44,60,67,102,125,180,222,259,FALSE
+"874","texasroadhouse.com","Texas Roadhouse",757,"Hotels, Restaurants & Leisure","TXRH",43,50,64,79,86,102,101,107,174,193,FALSE
+"875","textron.com","Textron",302,"Aerospace & Defense","TXT",52,69,84,101,91,120,130,147,173,192,FALSE
+"876","thecheesecakefactory.com","Cheesecake Factory",848,"Hotels, Restaurants & Leisure","CAKE",61,86,83,81,88,115,98,138,142,178,FALSE
+"877","thecloroxcompany.com","Clorox",459,"Household Products","CLX",77,83,96,99,72,81,108,99,121,120,FALSE
+"878","thehartford.com","Hartford Financial Services Group",160,"Financials","HIG",48,90,142,143,151,227,248,286,277,305,FALSE
+"879","thehersheycompany.com","Hershey",388,"Food, Beverages & Tobacco","HSY",23,26,27,94,98,126,111,145,169,167,FALSE
+"880","thekrogerco.com","Kroger",21,"Food & Drug Stores","KR",20,21,21,23,52,57,55,68,67,72,FALSE
+"881","thermofisher.com","Thermo Fisher Scientific",92,"Technology","TMO",24,49,95,167,251,288,344,389,425,466,FALSE
+"882","thetorocompany.com","Toro",697,"Industrials","TTC",12,14,16,19,24,22,70,82,83,108,FALSE
+"883","thewaltdisneycompany.com","Walt Disney",53,"Media","DIS",27,30,53,42,67,86,68,108,123,180,FALSE
+"884","thorindustries.com","Thor Industries",306,"Motor Vehicles & Parts","THO",34,33,44,82,99,116,124,127,135,159,FALSE
+"885","thrivent.com","Thrivent Financial for Lutherans",351,"Financials","",34,39,52,62,85,133,140,198,190,224,FALSE
+"886","ti.com","Texas Instruments",198,"Technology","TXN",20,21,28,131,163,180,178,289,325,316,FALSE
+"887","tiaa.org","TIAA",90,"Financials","",0,0,6,66,117,178,218,229,238,242,FALSE
+"888","timken.com","Timken",679,"Industrials","TKR",23,49,65,74,94,113,139,170,201,215,FALSE
+"889","tjx.com","TJX",75,"Retailing","TJX",46,59,66,77,100,139,164,195,216,275,FALSE
+"890","tollbrothers.com","Toll Brothers",397,"Engineering & Construction","TOL",71,97,103,109,145,210,216,270,292,284,FALSE
+"891","topbuild.com","TopBuild",755,"Engineering & Construction","BLD",3,10,28,32,30,38,40,71,57,61,FALSE
+"892","tpg.com","TPG",610,"Financials","TPG",21,23,27,45,42,48,55,69,115,144,FALSE
+"893","tractorsupply.com","Tractor Supply",294,"Retailing","TSCO",65,86,119,99,114,166,223,271,178,189,FALSE
+"894","transdigm.com","TransDigm Group",624,"Aerospace & Defense","TDG",8,12,10,9,50,54,58,73,78,89,FALSE
+"895","transunion.com","TransUnion",809,"Business Services","TRU",95,132,150,137,156,195,216,270,286,296,FALSE
+"896","travelandleisureco.com","Travel + Leisure",810,"Hotels, Restaurants & Leisure","TNL",0,0,0,0,0,0,0,0,117,143,FALSE
+"897","travelers.com","Travelers",103,"Financials","TRV",50,74,84,122,144,182,191,251,274,315,FALSE
+"898","treehousefoods.com","TreeHouse Foods",657,"Food, Beverages & Tobacco","THS",7,9,15,24,29,37,51,95,100,82,FALSE
+"899","trimble.com","Trimble",734,"Technology","TRMB",51,68,97,153,249,331,395,463,471,565,FALSE
+"900","trinet.com","TriNet Group",649,"Business Services","TNET",37,89,121,124,121,144,187,249,238,291,FALSE
+"901","tripointehomes.com","Tri Pointe Homes",695,"Engineering & Construction","TPH",46,73,91,99,119,136,158,184,200,180,FALSE
+"902","troweprice.com","T. Rowe Price",443,"Financials","TROW",35,52,117,101,73,117,129,210,216,275,FALSE
+"903","trueblue.com","TrueBlue",985,"Business Services","TBI",48,54,32,45,66,79,91,120,101,117,FALSE
+"904","truist.com","Truist Financial",155,"Financials","TFC",54,60,84,81,85,78,99,179,269,383,FALSE
+"905","ttec.com","TTEC Holdings",963,"Technology","TTEC",1,1,6,6,15,116,160,195,240,246,FALSE
+"906","ttm.com","TTM Technologies",970,"Technology","TTMI",55,37,30,33,37,44,55,92,117,118,FALSE
+"907","tutorperini.com","Tutor Perini",638,"Engineering & Construction","TPC",27,36,52,41,49,55,71,82,107,145,FALSE
+"908","twilio.com","Twilio",865,"Technology","TWLO",48,81,110,153,195,268,268,328,348,408,FALSE
+"909","twitter.com","Twitter",597,"Technology","",0,0,0,0,0,0,0,0,0,0,TRUE
+"910","tysonfoods.com","Tyson Foods",81,"Food, Beverages & Tobacco","TSN",44,52,58,67,76,90,100,85,90,121,FALSE
+"911","uber.com","Uber Technologies",210,"Technology","UBER",82,115,176,162,243,308,285,340,367,377,FALSE
+"912","ufpi.com","UFP Industries",401,"Materials","UFPI",39,51,39,53,64,78,79,119,97,100,FALSE
+"913","ugicorp.com","UGI",455,"Energy","UGI",25,29,55,61,55,61,62,61,105,96,FALSE
+"914","uhsinc.com","Universal Health Services",297,"Health Care","UHS",32,51,50,50,62,105,149,208,208,165,FALSE
+"915","ulta.com","Ulta Beauty",402,"Retailing","ULTA",70,106,94,124,122,170,193,254,237,245,FALSE
+"916","unfi.com","United Natural Foods",132,"Wholesalers","UNFI",22,35,39,63,82,97,107,139,179,207,FALSE
+"917","united.com","United Airlines Holdings",146,"Transportation","UAL",61,108,135,184,217,219,251,289,305,376,FALSE
+"918","unitedhealthgroup.com","UnitedHealth Group",5,"Health Care","UNH",34,39,47,67,98,122,134,241,213,237,FALSE
+"919","unitedrentals.com","United Rentals",363,"Business Services","URI",54,69,78,124,156,169,173,211,199,203,FALSE
+"920","univarsolutions.com","Univar Solutions",369,"Wholesalers","UNVR",0,0,0,0,0,0,69,134,171,199,FALSE
+"921","unum.com","Unum Group",317,"Financials","UNM",39,45,55,81,105,141,168,226,243,322,FALSE
+"922","up.com","Union Pacific",163,"Transportation","UNP",8,12,13,32,57,57,45,50,55,59,FALSE
+"923","ups.com","United Parcel Service",34,"Transportation","UPS",41,47,63,96,152,192,237,280,282,332,FALSE
+"924","urbn.com","Urban Outfitters",646,"Retailing","URBN",21,27,25,37,59,91,64,92,89,96,FALSE
+"925","usaa.com","USAA",96,"Financials","",11,18,25,58,86,147,155,161,154,171,FALSE
+"926","usbank.com","U.S. Bancorp",150,"Financials","USB",42,75,123,133,114,197,192,269,285,344,FALSE
+"927","usfoods.com","US Foods Holding",117,"Wholesalers","USFD",51,85,97,102,70,125,116,171,185,193,FALSE
+"928","ussteel.com","United States Steel",172,"Materials","X",10,14,11,14,37,33,33,71,81,66,FALSE
+"929","uwm.com","UWM Holdings",840,"Financials","UWMC",48,38,51,64,79,91,90,124,168,169,FALSE
+"930","valero.com","Valero Energy",30,"Energy","VLO",11,12,16,18,30,65,71,106,117,125,FALSE
+"931","valhi.net","Valhi",950,"Chemicals","VHI",9,13,10,11,24,23,23,42,40,42,FALSE
+"932","valmont.com","Valmont Industries",750,"Materials","VMI",47,56,63,66,73,81,95,134,162,169,FALSE
+"933","valvoline.com","Valvoline",837,"Chemicals","VVV",52,65,109,137,165,229,244,290,293,318,FALSE
+"934","ventasreit.com","Ventas",711,"Financials","VTR",25,46,44,51,54,64,74,84,102,92,FALSE
+"935","verisk.com","Verisk Analytics",829,"Business Services","VRSK",48,90,103,112,150,171,206,241,264,348,FALSE
+"936","veritivcorp.com","Veritiv",477,"Wholesalers","VRTV",0,31,99,144,141,172,169,191,199,233,FALSE
+"937","verizon.com","Verizon Communications",23,"Telecommunications","VZ",76,109,129,134,198,247,294,423,413,471,FALSE
+"938","vertiv.com","Vertiv Holdings",607,"Industrials","VRT",15,17,17,18,33,44,139,209,291,326,FALSE
+"939","vfc.com","VF Corp.",380,"Apparel","VFC",10,24,40,45,52,100,141,156,172,207,FALSE
+"940","viasat.com","Viasat",967,"Technology","VSAT",24,24,79,86,79,123,179,267,312,380,FALSE
+"941","viatris.com","Viatris",204,"Health Care","VTRS",2,2,2,2,15,19,14,68,127,154,FALSE
+"942","victoriassecretandco.com","Victoria's Secret",480,"Retailing","VSCO",0,0,0,0,0,0,0,0,59,58,FALSE
+"943","virtu.com","Virtu Financial",872,"Financials","VIRT",10,11,18,19,45,38,65,81,113,152,FALSE
+"944","visa.com","Visa",147,"Business Services","V",82,112,103,106,117,170,177,240,228,351,FALSE
+"945","vishay.com","Vishay Intertechnology",791,"Technology","VSH",18,28,29,34,45,50,72,114,112,107,FALSE
+"946","vistaoutdoor.com","Vista Outdoor",975,"Business Services","VSTO",0,0,63,83,87,112,141,170,164,177,FALSE
+"947","visteon.com","Visteon",884,"Motor Vehicles & Parts","VC",5,8,9,40,51,67,144,155,174,178,FALSE
+"948","vistracorp.com","Vistra",315,"Energy","VST",0,0,0,0,0,6,6,111,140,148,FALSE
+"949","vizio.com","Vizio Holding",996,"Industrials","VZIO",80,108,118,123,169,190,234,261,316,351,FALSE
+"950","vontier.com","Vontier",833,"Technology","VNT",0,0,0,0,19,24,23,75,96,128,FALSE
+"951","voya.com","Voya Financial",670,"Financials","VOYA",44,79,114,111,133,152,154,173,162,228,FALSE
+"952","vroom.com","Vroom",805,"Retailing","VRM",18,49,102,90,113,119,132,174,190,187,FALSE
+"953","vrtx.com","Vertex Pharmaceuticals",448,"Health Care","VRTX",33,40,47,52,82,123,119,136,144,186,FALSE
+"954","vulcanmaterials.com","Vulcan Materials",562,"Materials","VMC",28,25,71,85,93,70,85,100,119,143,FALSE
+"955","wabteccorp.com","Westinghouse Air Brake Technologies",439,"Industrials","WAB",0,0,0,0,5,16,41,68,87,93,FALSE
+"956","walgreensbootsalliance.com","Walgreens Boots Alliance",18,"Food & Drug Stores","WBA",0,0,48,43,45,53,55,91,108,115,FALSE
+"957","waters.com","Waters",877,"Technology","WAT",27,39,103,128,193,232,304,363,408,381,FALSE
+"958","watsco.com","Watsco",507,"Wholesalers","WSO",36,41,39,41,39,71,66,73,84,97,FALSE
+"959","wayfair.com","Wayfair",275,"Retailing","W",98,181,213,145,137,168,185,201,215,233,FALSE
+"960","wbd.com","Warner Bros. Discovery",310,"Media","WBD",4,4,4,4,4,4,9,35,33,238,FALSE
+"961","wecenergygroup.com","WEC Energy Group",416,"Energy","WEC",0,0,29,30,35,56,50,80,95,96,FALSE
+"962","weismarkets.com","Weis Markets",672,"Food & Drug Stores","WMK",72,81,95,122,133,157,176,168,99,98,FALSE
+"963","wellsfargo.com","Wells Fargo",41,"Financials","WFC",20,44,50,78,85,101,132,177,168,212,FALSE
+"964","welltower.com","Welltower",630,"Financials","WELL",0,0,17,33,46,66,100,107,107,108,FALSE
+"965","werner.com","Werner Enterprises",892,"Transportation","WERN",54,62,67,66,71,71,86,193,249,228,FALSE
+"966","wesco.com","WESCO International",200,"Wholesalers","WCC",29,41,74,84,113,120,134,167,203,260,FALSE
+"967","westerndigital.com","Western Digital",217,"Technology","WDC",44,37,57,83,60,191,271,324,349,328,FALSE
+"968","westernmidstream.com","Western Midstream Partners",858,"Energy","WES",0,0,0,0,0,1,30,45,99,99,FALSE
+"969","westernsouthern.com","Western & Southern Financial Group",372,"Financials","",16,19,27,29,63,44,73,85,102,112,FALSE
+"970","westernunion.com","Western Union",599,"Business Services","WU",86,119,119,201,248,359,363,406,400,480,FALSE
+"971","westlake.com","Westlake",320,"Chemicals","WLK",13,16,21,71,74,76,84,110,97,116,FALSE
+"972","westpharma.com","West Pharmaceutical Services",869,"Health Care","WST",14,28,32,46,62,106,102,126,129,96,FALSE
+"973","westrock.com","WestRock",192,"Materials","WRK",7,14,33,66,120,176,206,240,262,281,FALSE
+"974","wework.com","WeWork",914,"Financials","WE",56,128,189,189,191,327,355,397,384,367,FALSE
+"975","weyerhaeuser.com","Weyerhaeuser",354,"Materials","WY",27,26,57,61,81,122,132,168,167,202,FALSE
+"976","wfscorp.com","World Fuel Services",111,"Energy","INT",37,49,57,78,79,120,144,223,228,276,FALSE
+"977","whirlpoolcorp.com","Whirlpool",162,"Industrials","WHR",29,93,100,87,97,142,141,153,164,183,FALSE
+"978","williams-sonomainc.com","Williams-Sonoma",420,"Retailing","WSM",27,38,52,49,51,56,62,103,100,100,FALSE
+"979","williams.com","Williams",347,"Energy","WMB",33,43,54,54,65,103,156,189,178,178,FALSE
+"980","winnebagoind.com","Winnebago Industries",737,"Motor Vehicles & Parts","WGO",18,20,47,51,57,78,79,86,63,83,FALSE
+"981","wm.com","Waste Management",203,"Business Services","WM",15,15,15,128,174,191,223,343,342,387,FALSE
+"982","wmg.com","Warner Music Group",576,"Media","WMG",23,30,76,77,91,158,204,243,276,307,FALSE
+"983","wolverineworldwide.com","Wolverine World Wide",934,"Apparel","WWW",34,35,38,46,57,67,55,75,83,86,FALSE
+"984","woodward.com","Woodward",972,"Aerospace & Defense","WWD",20,25,29,32,35,49,88,157,161,143,FALSE
+"985","workday.com","Workday",589,"Technology","WDAY",66,73,99,136,133,173,191,230,248,329,FALSE
+"986","worthingtonindustries.com","Worthington Industries",806,"Materials","WOR",29,38,42,53,68,83,87,129,132,122,FALSE
+"987","wynnresorts.com","Wynn Resorts",719,"Hotels, Restaurants & Leisure","WYNN",14,13,24,38,53,86,128,151,135,160,FALSE
+"988","xcelenergy.com","Xcel Energy",278,"Energy","XEL",31,46,60,67,92,127,143,196,245,267,FALSE
+"989","xerox.com","Xerox Holdings",471,"Technology","XRX",98,167,202,242,275,343,316,375,432,449,FALSE
+"990","xilinx.com","Xilinx",808,"Technology","XLNX",43,56,74,69,70,148,146,215,242,212,FALSE
+"991","xpo.com","XPO Logistics",291,"Transportation","XPO",0,12,98,118,131,159,195,208,219,269,FALSE
+"992","xylem.com","Xylem",585,"Industrials","XYL",1,45,87,125,154,176,205,272,305,331,FALSE
+"993","yum.com","Yum Brands",490,"Hotels, Restaurants & Leisure","YUM",34,46,49,67,65,95,128,168,152,194,FALSE
+"994","zebra.com","Zebra Technologies",553,"Industrials","ZBRA",58,66,88,144,166,251,290,297,316,370,FALSE
+"995","zillowgroup.com","Zillow Group",424,"Technology","ZG",0,7,55,64,64,82,111,145,199,236,FALSE
+"996","zimmerbiomet.com","Zimmer Biomet Holdings",438,"Health Care","ZBH",0,0,44,54,76,125,178,232,275,288,FALSE
+"997","zionsbancorporation.com","Zions Bancorp.",841,"Financials","ZION",12,11,14,18,18,37,36,53,58,64,FALSE
+"998","zoetis.com","Zoetis",440,"Health Care","ZTS",46,52,60,57,57,111,154,221,215,299,FALSE
+"999","zoom.us","Zoom Video Communications",684,"Technology","ZM",45,62,113,106,132,205,252,286,293,340,FALSE
+"1000","zynga.com","Zynga",874,"Media","",65,91,92,89,100,162,152,218,264,319,FALSE
